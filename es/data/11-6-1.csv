@@ -1,21 +1,49 @@
-Year,Serie,Value
-2010,Residuos urbanos recogidos per cápita,604.28
-2011,Residuos urbanos recogidos per cápita,578.07
-2012,Residuos urbanos recogidos per cápita,542.87
-2013,Residuos urbanos recogidos per cápita,523.23
-2014,Residuos urbanos recogidos per cápita,516.1
-2015,Residuos urbanos recogidos per cápita,532.63
-2016,Residuos urbanos recogidos per cápita,538.21
-2017,Residuos urbanos recogidos per cápita,535.14
-2014,Proporción de residuos urbanos incinerados en relación al total de residuos urbanos generados y tratados,44.06
-2015,Proporción de residuos urbanos incinerados en relación al total de residuos urbanos generados y tratados,42.31
-2016,Proporción de residuos urbanos incinerados en relación al total de residuos urbanos generados y tratados,42.07
-2017,Proporción de residuos urbanos incinerados en relación al total de residuos urbanos generados y tratados,42.62
-2014,Proporción de residuos urbanos vertidos en relación al total de residuos urbanos generados y tratados,19.46
-2015,Proporción de residuos urbanos vertidos en relación al total de residuos urbanos generados y tratados,19.68
-2016,Proporción de residuos urbanos vertidos en relación al total de residuos urbanos generados y tratados,23.14
-2017,Proporción de residuos urbanos vertidos en relación al total de residuos urbanos generados y tratados,22.21
-2014,Proporción de residuos urbanos reciclados en relación al total de residuos urbanos generados y tratados,36.49
-2015,Proporción de residuos urbanos reciclados en relación al total de residuos urbanos generados y tratados,38.02
-2016,Proporción de residuos urbanos reciclados en relación al total de residuos urbanos generados y tratados,34.79
-2017,Proporción de residuos urbanos reciclados en relación al total de residuos urbanos generados y tratados,35.17
+Year,Serie,Región,Value
+2010,Residuos urbanos recogidos per cápita,España,523.6
+2011,Residuos urbanos recogidos per cápita,España,498.16
+2012,Residuos urbanos recogidos per cápita,España,478.89
+2013,Residuos urbanos recogidos per cápita,España,467.57
+2014,Residuos urbanos recogidos per cápita,España,459.12
+2015,Residuos urbanos recogidos per cápita,España,466.41
+2016,Residuos urbanos recogidos per cápita,España,471.01
+2017,Residuos urbanos recogidos per cápita,España,483.86
+2018,Residuos urbanos recogidos per cápita,España,485.9
+2010,Residuos urbanos recogidos per cápita,Cantabria,604.28
+2011,Residuos urbanos recogidos per cápita,Cantabria,578.07
+2012,Residuos urbanos recogidos per cápita,Cantabria,542.87
+2013,Residuos urbanos recogidos per cápita,Cantabria,523.23
+2014,Residuos urbanos recogidos per cápita,Cantabria,516.1
+2015,Residuos urbanos recogidos per cápita,Cantabria,532.63
+2016,Residuos urbanos recogidos per cápita,Cantabria,538.21
+2017,Residuos urbanos recogidos per cápita,Cantabria,535.14
+2018,Residuos urbanos recogidos per cápita,Cantabria,566.07
+2014,Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados,España,11.8
+2015,Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados,España,12.71
+2016,Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados,España,12.02
+2017,Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados,España,12.73
+2018,Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados,España,11.59
+2014,Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados,Cantabria,44.06
+2015,Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados,Cantabria,42.31
+2016,Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados,Cantabria,42.07
+2017,Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados,Cantabria,42.62
+2018,Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados,Cantabria,40.61
+2014,Proporción de residuos municipales vertidos en relación al total de residuos municipales generados y tratados,España,56.89
+2015,Proporción de residuos municipales vertidos en relación al total de residuos municipales generados y tratados,España,56.77
+2016,Proporción de residuos municipales vertidos en relación al total de residuos municipales generados y tratados,España,54.12
+2017,Proporción de residuos municipales vertidos en relación al total de residuos municipales generados y tratados,España,51.16
+2018,Proporción de residuos municipales vertidos en relación al total de residuos municipales generados y tratados,España,53.39
+2014,Proporción de residuos municipales vertidos en relación al total de residuos municipales generados y tratados,Cantabria,19.46
+2015,Proporción de residuos municipales vertidos en relación al total de residuos municipales generados y tratados,Cantabria,19.68
+2016,Proporción de residuos municipales vertidos en relación al total de residuos municipales generados y tratados,Cantabria,23.14
+2017,Proporción de residuos municipales vertidos en relación al total de residuos municipales generados y tratados,Cantabria,22.21
+2018,Proporción de residuos municipales vertidos en relación al total de residuos municipales generados y tratados,Cantabria,30.68
+2014,Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados,España,31.31
+2015,Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados,España,30.52
+2016,Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados,España,33.86
+2017,Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados,España,36.11
+2018,Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados,España,35.02
+2014,Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados,Cantabria,36.49
+2015,Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados,Cantabria,38.02
+2016,Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados,Cantabria,34.79
+2017,Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados,Cantabria,35.17
+2018,Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados,Cantabria,28.71

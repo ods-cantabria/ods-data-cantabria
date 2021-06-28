@@ -1,5 +1,11 @@
-Year,Serie,Value
-2015,Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,1.61
-2016,Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,3.54
-2017,Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,0.0
-2018,Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,0.25
+Year,Serie,Región,Value
+2015,Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,España,0.57
+2016,Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,España,0.54
+2017,Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,España,0.14
+2018,Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,España,0.16
+2019,Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,España,0.2
+2015,Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,Cantabria,1.61
+2016,Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,Cantabria,3.54
+2017,Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,Cantabria,0.0
+2018,Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,Cantabria,0.25
+2019,Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,Cantabria,

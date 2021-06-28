@@ -1,4 +1,7 @@
-Year,Serie,Value
-2010,Tiempo dedicado al hogar y familia en un día promedio,171.96
-2010,Tiempo dedicado por las mujeres al hogar y familia en un día promedio,241.49
-2010,Tiempo dedicado por los hombres al hogar y familia en un día promedio,98.73
+Year,Serie,RefArea,Value
+2010,Tiempo dedicado al hogar y familia en un día promedio,España,182.0
+2010,Tiempo dedicado al hogar y familia en un día promedio,Cantabria,171.96
+2010,Tiempo dedicado por las mujeres al hogar y familia en un día promedio,España,247.0
+2010,Tiempo dedicado por las mujeres al hogar y familia en un día promedio,Cantabria,241.49
+2010,Tiempo dedicado por los hombres al hogar y familia en un día promedio,España,114.0
+2010,Tiempo dedicado por los hombres al hogar y familia en un día promedio,Cantabria,98.73

@@ -1,9 +1,19 @@
-Year,Serie,Value
-2010,Residuos urbanos recogidos per cápita y día,1.66
-2011,Residuos urbanos recogidos per cápita y día,1.58
-2012,Residuos urbanos recogidos per cápita y día,1.49
-2013,Residuos urbanos recogidos per cápita y día,1.43
-2014,Residuos urbanos recogidos per cápita y día,1.41
-2015,Residuos urbanos recogidos per cápita y día,1.46
-2016,Residuos urbanos recogidos per cápita y día,1.47
-2017,Residuos urbanos recogidos per cápita y día,1.47
+Year,Serie,Región,Value
+2010,Residuos urbanos recogidos per cápita y día,España,1.43
+2011,Residuos urbanos recogidos per cápita y día,España,1.36
+2012,Residuos urbanos recogidos per cápita y día,España,1.31
+2013,Residuos urbanos recogidos per cápita y día,España,1.28
+2014,Residuos urbanos recogidos per cápita y día,España,1.26
+2015,Residuos urbanos recogidos per cápita y día,España,1.28
+2016,Residuos urbanos recogidos per cápita y día,España,1.29
+2017,Residuos urbanos recogidos per cápita y día,España,1.33
+2018,Residuos urbanos recogidos per cápita y día,España,1.33
+2010,Residuos urbanos recogidos per cápita y día,Cantabria,1.66
+2011,Residuos urbanos recogidos per cápita y día,Cantabria,1.58
+2012,Residuos urbanos recogidos per cápita y día,Cantabria,1.49
+2013,Residuos urbanos recogidos per cápita y día,Cantabria,1.43
+2014,Residuos urbanos recogidos per cápita y día,Cantabria,1.41
+2015,Residuos urbanos recogidos per cápita y día,Cantabria,1.46
+2016,Residuos urbanos recogidos per cápita y día,Cantabria,1.47
+2017,Residuos urbanos recogidos per cápita y día,Cantabria,1.47
+2018,Residuos urbanos recogidos per cápita y día,Cantabria,1.55

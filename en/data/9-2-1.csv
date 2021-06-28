@@ -1,21 +1,42 @@
-Year,Serie,Value
-2010,Valor añadido del sector manufacturero per cápita,3413.66
-2011,Valor añadido del sector manufacturero per cápita,3500.75
-2012,Valor añadido del sector manufacturero per cápita,3379.41
-2013,Valor añadido del sector manufacturero per cápita,3084.04
-2014,Valor añadido del sector manufacturero per cápita,3334.43
-2015,Valor añadido del sector manufacturero per cápita,3245.29
-2016,Valor añadido del sector manufacturero per cápita,3321.91
-2017,Valor añadido del sector manufacturero per cápita,3700.24
-2018,Valor añadido del sector manufacturero per cápita,3925.41
-2019,Valor añadido del sector manufacturero per cápita,3871.8
-2010,Valor añadido del sector manufacturero en proporción al PIB,15.68
-2011,Valor añadido del sector manufacturero en proporción al PIB,16.41
-2012,Valor añadido del sector manufacturero en proporción al PIB,16.42
-2013,Valor añadido del sector manufacturero en proporción al PIB,15.3
-2014,Valor añadido del sector manufacturero en proporción al PIB,16.21
-2015,Valor añadido del sector manufacturero en proporción al PIB,15.36
-2016,Valor añadido del sector manufacturero en proporción al PIB,15.16
-2017,Valor añadido del sector manufacturero en proporción al PIB,16.25
-2018,Valor añadido del sector manufacturero en proporción al PIB,16.52
-2019,Valor añadido del sector manufacturero en proporción al PIB,15.77
+Year,Serie,RefArea,Value
+2010,Valor añadido del sector manufacturero per cápita,España,2625.78
+2011,Valor añadido del sector manufacturero per cápita,España,2617.19
+2012,Valor añadido del sector manufacturero per cápita,España,2452.81
+2013,Valor añadido del sector manufacturero per cápita,España,2451.09
+2014,Valor añadido del sector manufacturero per cápita,España,2512.99
+2015,Valor añadido del sector manufacturero per cápita,España,2623.83
+2016,Valor añadido del sector manufacturero per cápita,España,2703.75
+2017,Valor añadido del sector manufacturero per cápita,España,2830.69
+2018,Valor añadido del sector manufacturero per cápita,España,2869.09
+2019,Valor añadido del sector manufacturero per cápita,España,2948.69
+2010,Valor añadido del sector manufacturero per cápita,Cantabria,3413.66
+2011,Valor añadido del sector manufacturero per cápita,Cantabria,3500.75
+2012,Valor añadido del sector manufacturero per cápita,Cantabria,3379.41
+2013,Valor añadido del sector manufacturero per cápita,Cantabria,3084.04
+2014,Valor añadido del sector manufacturero per cápita,Cantabria,3334.43
+2015,Valor añadido del sector manufacturero per cápita,Cantabria,3245.29
+2016,Valor añadido del sector manufacturero per cápita,Cantabria,3321.91
+2017,Valor añadido del sector manufacturero per cápita,Cantabria,3659.67
+2018,Valor añadido del sector manufacturero per cápita,Cantabria,3753.42
+2019,Valor añadido del sector manufacturero per cápita,Cantabria,3745.8
+2010,Valor añadido del sector manufacturero en proporción al PIB,España,11.4
+2011,Valor añadido del sector manufacturero en proporción al PIB,España,11.5
+2012,Valor añadido del sector manufacturero en proporción al PIB,España,11.12
+2013,Valor añadido del sector manufacturero en proporción al PIB,España,11.19
+2014,Valor añadido del sector manufacturero en proporción al PIB,España,11.31
+2015,Valor añadido del sector manufacturero en proporción al PIB,España,11.3
+2016,Valor añadido del sector manufacturero en proporción al PIB,España,11.28
+2017,Valor añadido del sector manufacturero en proporción al PIB,España,11.34
+2018,Valor añadido del sector manufacturero en proporción al PIB,España,11.13
+2019,Valor añadido del sector manufacturero en proporción al PIB,España,11.16
+2020,Valor añadido del sector manufacturero en proporción al PIB,España,11.17
+2010,Valor añadido del sector manufacturero en proporción al PIB,Cantabria,15.68
+2011,Valor añadido del sector manufacturero en proporción al PIB,Cantabria,16.41
+2012,Valor añadido del sector manufacturero en proporción al PIB,Cantabria,16.42
+2013,Valor añadido del sector manufacturero en proporción al PIB,Cantabria,15.3
+2014,Valor añadido del sector manufacturero en proporción al PIB,Cantabria,16.21
+2015,Valor añadido del sector manufacturero en proporción al PIB,Cantabria,15.36
+2016,Valor añadido del sector manufacturero en proporción al PIB,Cantabria,15.16
+2017,Valor añadido del sector manufacturero en proporción al PIB,Cantabria,16.07
+2018,Valor añadido del sector manufacturero en proporción al PIB,Cantabria,15.87
+2019,Valor añadido del sector manufacturero en proporción al PIB,Cantabria,15.36

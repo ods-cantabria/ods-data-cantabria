@@ -1,19 +1,41 @@
-Year,Serie,Value
-2010,Emisiones de CO2 de las unidades residentes por unidad de PIB,0.43
-2011,Emisiones de CO2 de las unidades residentes por unidad de PIB,0.41
-2012,Emisiones de CO2 de las unidades residentes por unidad de PIB,0.42
-2013,Emisiones de CO2 de las unidades residentes por unidad de PIB,0.39
-2014,Emisiones de CO2 de las unidades residentes por unidad de PIB,0.39
-2015,Emisiones de CO2 de las unidades residentes por unidad de PIB,0.39
-2016,Emisiones de CO2 de las unidades residentes por unidad de PIB,0.38
-2017,Emisiones de CO2 de las unidades residentes por unidad de PIB,0.39
-2018,Emisiones de CO2 de las unidades residentes por unidad de PIB,0.38
-2010,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,1.63
-2011,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,1.53
-2012,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,1.6
-2013,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,1.5
-2014,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,1.42
-2015,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,1.42
-2016,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,1.44
-2017,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,1.44
-2018,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,1.37
+Year,Serie,Región,Value
+2010,Emisiones de CO2 de las unidades residentes por unidad de PIB,España,0.33
+2011,Emisiones de CO2 de las unidades residentes por unidad de PIB,España,0.33
+2012,Emisiones de CO2 de las unidades residentes por unidad de PIB,España,0.34
+2013,Emisiones de CO2 de las unidades residentes por unidad de PIB,España,0.32
+2014,Emisiones de CO2 de las unidades residentes por unidad de PIB,España,0.31
+2015,Emisiones de CO2 de las unidades residentes por unidad de PIB,España,0.31
+2016,Emisiones de CO2 de las unidades residentes por unidad de PIB,España,0.29
+2017,Emisiones de CO2 de las unidades residentes por unidad de PIB,España,0.3
+2018,Emisiones de CO2 de las unidades residentes por unidad de PIB,España,0.28
+2019,Emisiones de CO2 de las unidades residentes por unidad de PIB,España,0.26
+2010,Emisiones de CO2 de las unidades residentes por unidad de PIB,Cantabria,0.42
+2011,Emisiones de CO2 de las unidades residentes por unidad de PIB,Cantabria,0.39
+2012,Emisiones de CO2 de las unidades residentes por unidad de PIB,Cantabria,0.4
+2013,Emisiones de CO2 de las unidades residentes por unidad de PIB,Cantabria,0.37
+2014,Emisiones de CO2 de las unidades residentes por unidad de PIB,Cantabria,0.37
+2015,Emisiones de CO2 de las unidades residentes por unidad de PIB,Cantabria,0.37
+2016,Emisiones de CO2 de las unidades residentes por unidad de PIB,Cantabria,0.36
+2017,Emisiones de CO2 de las unidades residentes por unidad de PIB,Cantabria,0.37
+2018,Emisiones de CO2 de las unidades residentes por unidad de PIB,Cantabria,0.38
+2019,Emisiones de CO2 de las unidades residentes por unidad de PIB,Cantabria,0.37
+2010,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,España,0.68
+2011,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,España,0.65
+2012,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,España,0.68
+2013,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,España,0.64
+2014,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,España,0.62
+2015,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,España,0.61
+2016,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,España,0.59
+2017,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,España,0.59
+2018,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,España,0.61
+2019,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,España,0.56
+2010,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,Cantabria,1.61
+2011,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,Cantabria,1.52
+2012,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,Cantabria,1.61
+2013,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,Cantabria,1.53
+2014,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,Cantabria,1.42
+2015,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,Cantabria,1.4
+2016,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,Cantabria,1.42
+2017,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,Cantabria,1.45
+2018,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,Cantabria,1.54
+2019,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,Cantabria,1.62

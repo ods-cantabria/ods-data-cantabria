@@ -1,10 +1,21 @@
-Year,Serie,Value
-2010,Tasa de mortalidad por suicidio,3.39
-2011,Tasa de mortalidad por suicidio,6.25
-2012,Tasa de mortalidad por suicidio,6.09
-2013,Tasa de mortalidad por suicidio,5.44
-2014,Tasa de mortalidad por suicidio,6.48
-2015,Tasa de mortalidad por suicidio,6.51
-2016,Tasa de mortalidad por suicidio,7.05
-2017,Tasa de mortalidad por suicidio,4.65
-2018,Tasa de mortalidad por suicidio,4.82
+Year,Serie,Región,Value
+2010,Tasa de mortalidad por suicidio,España,6.78
+2011,Tasa de mortalidad por suicidio,España,6.8
+2012,Tasa de mortalidad por suicidio,España,7.57
+2013,Tasa de mortalidad por suicidio,España,8.31
+2014,Tasa de mortalidad por suicidio,España,8.42
+2015,Tasa de mortalidad por suicidio,España,7.76
+2016,Tasa de mortalidad por suicidio,España,7.68
+2017,Tasa de mortalidad por suicidio,España,7.91
+2018,Tasa de mortalidad por suicidio,España,7.57
+2019,Tasa de mortalidad por suicidio,España,7.79
+2010,Tasa de mortalidad por suicidio,Cantabria,3.39
+2011,Tasa de mortalidad por suicidio,Cantabria,6.25
+2012,Tasa de mortalidad por suicidio,Cantabria,6.09
+2013,Tasa de mortalidad por suicidio,Cantabria,5.44
+2014,Tasa de mortalidad por suicidio,Cantabria,6.48
+2015,Tasa de mortalidad por suicidio,Cantabria,6.51
+2016,Tasa de mortalidad por suicidio,Cantabria,7.05
+2017,Tasa de mortalidad por suicidio,Cantabria,4.65
+2018,Tasa de mortalidad por suicidio,Cantabria,4.82
+2019,Tasa de mortalidad por suicidio,Cantabria,6.19

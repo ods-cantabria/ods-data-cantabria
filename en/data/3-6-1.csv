@@ -1,10 +1,21 @@
-Year,Serie,Value
-2010,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,5.6
-2011,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,3.38
-2012,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,3.05
-2013,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,3.06
-2014,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,3.58
-2015,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,4.11
-2016,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,4.13
-2017,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,3.96
-2018,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,3.96
+Year,Serie,RefArea,Value
+2010,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,España,5.02
+2011,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,España,4.53
+2012,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,España,4.09
+2013,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,España,3.88
+2014,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,España,4.03
+2015,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,España,4.05
+2016,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,España,4.07
+2017,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,España,4.18
+2018,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,España,4.06
+2019,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,España,3.91
+2010,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,Cantabria,5.6
+2011,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,Cantabria,3.38
+2012,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,Cantabria,3.05
+2013,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,Cantabria,3.06
+2014,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,Cantabria,3.58
+2015,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,Cantabria,4.11
+2016,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,Cantabria,4.13
+2017,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,Cantabria,3.96
+2018,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,Cantabria,3.96
+2019,Tasa de mortalidad por lesiones debidas a accidentes de tráfico,Cantabria,3.78

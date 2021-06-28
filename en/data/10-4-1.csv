@@ -1,10 +1,22 @@
-Year,Serie,Value
-2010,Proporción del PIB generada por el trabajo asalariado,46.78
-2011,Proporción del PIB generada por el trabajo asalariado,46.31
-2012,Proporción del PIB generada por el trabajo asalariado,44.6
-2013,Proporción del PIB generada por el trabajo asalariado,44.44
-2014,Proporción del PIB generada por el trabajo asalariado,44.18
-2015,Proporción del PIB generada por el trabajo asalariado,44.41
-2016,Proporción del PIB generada por el trabajo asalariado,44.04
-2017,Proporción del PIB generada por el trabajo asalariado,43.63
-2018,Proporción del PIB generada por el trabajo asalariado,43.53
+Year,Serie,RefArea,Value
+2010,Proporción del PIB generada por el trabajo asalariado,España,49.11
+2011,Proporción del PIB generada por el trabajo asalariado,España,48.26
+2012,Proporción del PIB generada por el trabajo asalariado,España,46.69
+2013,Proporción del PIB generada por el trabajo asalariado,España,45.82
+2014,Proporción del PIB generada por el trabajo asalariado,España,45.88
+2015,Proporción del PIB generada por el trabajo asalariado,España,45.74
+2016,Proporción del PIB generada por el trabajo asalariado,España,45.22
+2017,Proporción del PIB generada por el trabajo asalariado,España,45.07
+2018,Proporción del PIB generada por el trabajo asalariado,España,45.25
+2019,Proporción del PIB generada por el trabajo asalariado,España,45.87
+2020,Proporción del PIB generada por el trabajo asalariado,España,48.15
+2010,Proporción del PIB generada por el trabajo asalariado,Cantabria,46.78
+2011,Proporción del PIB generada por el trabajo asalariado,Cantabria,46.31
+2012,Proporción del PIB generada por el trabajo asalariado,Cantabria,44.6
+2013,Proporción del PIB generada por el trabajo asalariado,Cantabria,44.44
+2014,Proporción del PIB generada por el trabajo asalariado,Cantabria,44.18
+2015,Proporción del PIB generada por el trabajo asalariado,Cantabria,44.41
+2016,Proporción del PIB generada por el trabajo asalariado,Cantabria,44.04
+2017,Proporción del PIB generada por el trabajo asalariado,Cantabria,43.62
+2018,Proporción del PIB generada por el trabajo asalariado,Cantabria,43.59
+2019,Proporción del PIB generada por el trabajo asalariado,Cantabria,44.44

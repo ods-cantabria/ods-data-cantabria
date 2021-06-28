@@ -1,10 +1,21 @@
-Year,Serie,Value
-2010,Proporción de partos atendidos por personal sanitario especializado,99.89
-2011,Proporción de partos atendidos por personal sanitario especializado,99.98
-2012,Proporción de partos atendidos por personal sanitario especializado,99.98
-2013,Proporción de partos atendidos por personal sanitario especializado,99.92
-2014,Proporción de partos atendidos por personal sanitario especializado,99.87
-2015,Proporción de partos atendidos por personal sanitario especializado,99.91
-2016,Proporción de partos atendidos por personal sanitario especializado,99.95
-2017,Proporción de partos atendidos por personal sanitario especializado,99.93
-2018,Proporción de partos atendidos por personal sanitario especializado,99.95
+Year,Serie,RefArea,Value
+2010,Proporción de partos atendidos por personal sanitario especializado,España,99.94
+2011,Proporción de partos atendidos por personal sanitario especializado,España,99.94
+2012,Proporción de partos atendidos por personal sanitario especializado,España,99.94
+2013,Proporción de partos atendidos por personal sanitario especializado,España,99.93
+2014,Proporción de partos atendidos por personal sanitario especializado,España,99.93
+2015,Proporción de partos atendidos por personal sanitario especializado,España,99.92
+2016,Proporción de partos atendidos por personal sanitario especializado,España,99.93
+2017,Proporción de partos atendidos por personal sanitario especializado,España,99.93
+2018,Proporción de partos atendidos por personal sanitario especializado,España,99.92
+2019,Proporción de partos atendidos por personal sanitario especializado,España,99.92
+2010,Proporción de partos atendidos por personal sanitario especializado,Cantabria,99.89
+2011,Proporción de partos atendidos por personal sanitario especializado,Cantabria,99.98
+2012,Proporción de partos atendidos por personal sanitario especializado,Cantabria,99.98
+2013,Proporción de partos atendidos por personal sanitario especializado,Cantabria,99.92
+2014,Proporción de partos atendidos por personal sanitario especializado,Cantabria,99.87
+2015,Proporción de partos atendidos por personal sanitario especializado,Cantabria,99.91
+2016,Proporción de partos atendidos por personal sanitario especializado,Cantabria,99.95
+2017,Proporción de partos atendidos por personal sanitario especializado,Cantabria,99.93
+2018,Proporción de partos atendidos por personal sanitario especializado,Cantabria,99.95
+2019,Proporción de partos atendidos por personal sanitario especializado,Cantabria,99.91

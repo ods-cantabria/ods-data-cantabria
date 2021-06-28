@@ -1,41 +1,81 @@
-Year,Serie,Value
-2010,Número de personas colegiadas en medicina por cada 10.000 habitantes,54.07
-2011,Número de personas colegiadas en medicina por cada 10.000 habitantes,54.2
-2012,Número de personas colegiadas en medicina por cada 10.000 habitantes,54.96
-2013,Número de personas colegiadas en medicina por cada 10.000 habitantes,56.14
-2014,Número de personas colegiadas en medicina por cada 10.000 habitantes,57.35
-2015,Número de personas colegiadas en medicina por cada 10.000 habitantes,58.75
-2016,Número de personas colegiadas en medicina por cada 10.000 habitantes,60.31
-2017,Número de personas colegiadas en medicina por cada 10.000 habitantes,61.09
-2018,Número de personas colegiadas en medicina por cada 10.000 habitantes,63.18
-2019,Número de personas colegiadas en medicina por cada 10.000 habitantes,63.57
-2010,Número de personas colegiadas en enfermería por cada 10.000 habitantes,68.1
-2011,Número de personas colegiadas en enfermería por cada 10.000 habitantes,67.78
-2012,Número de personas colegiadas en enfermería por cada 10.000 habitantes,68.67
-2013,Número de personas colegiadas en enfermería por cada 10.000 habitantes,70.26
-2014,Número de personas colegiadas en enfermería por cada 10.000 habitantes,71.19
-2015,Número de personas colegiadas en enfermería por cada 10.000 habitantes,73.6
-2016,Número de personas colegiadas en enfermería por cada 10.000 habitantes,76.24
-2017,Número de personas colegiadas en enfermería por cada 10.000 habitantes,78.55
-2018,Número de personas colegiadas en enfermería por cada 10.000 habitantes,81.24
-2019,Número de personas colegiadas en enfermería por cada 10.000 habitantes,84.15
-2010,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,4.87
-2011,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,5.05
-2012,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,5.51
-2013,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,5.8
-2014,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,6.32
-2015,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,6.83
-2016,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,7.22
-2017,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,7.31
-2018,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,7.44
-2019,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,7.5
-2010,Número de personas colegiadas en farmacia por cada 10.000 habitantes,11.34
-2011,Número de personas colegiadas en farmacia por cada 10.000 habitantes,11.36
-2012,Número de personas colegiadas en farmacia por cada 10.000 habitantes,11.59
-2013,Número de personas colegiadas en farmacia por cada 10.000 habitantes,11.74
-2014,Número de personas colegiadas en farmacia por cada 10.000 habitantes,11.89
-2015,Número de personas colegiadas en farmacia por cada 10.000 habitantes,12.22
-2016,Número de personas colegiadas en farmacia por cada 10.000 habitantes,12.11
-2017,Número de personas colegiadas en farmacia por cada 10.000 habitantes,12.45
-2018,Número de personas colegiadas en farmacia por cada 10.000 habitantes,12.69
-2019,Número de personas colegiadas en farmacia por cada 10.000 habitantes,13.27
+Year,Serie,Región,Value
+2010,Número de personas colegiadas en medicina por cada 10.000 habitantes,España,47.89
+2011,Número de personas colegiadas en medicina por cada 10.000 habitantes,España,48.36
+2012,Número de personas colegiadas en medicina por cada 10.000 habitantes,España,48.99
+2013,Número de personas colegiadas en medicina por cada 10.000 habitantes,España,50.05
+2014,Número de personas colegiadas en medicina por cada 10.000 habitantes,España,51.29
+2015,Número de personas colegiadas en medicina por cada 10.000 habitantes,España,52.29
+2016,Número de personas colegiadas en medicina por cada 10.000 habitantes,España,53.29
+2017,Número de personas colegiadas en medicina por cada 10.000 habitantes,España,54.39
+2018,Número de personas colegiadas en medicina por cada 10.000 habitantes,España,55.52
+2019,Número de personas colegiadas en medicina por cada 10.000 habitantes,España,56.62
+2010,Número de personas colegiadas en medicina por cada 10.000 habitantes,Cantabria,54.07
+2011,Número de personas colegiadas en medicina por cada 10.000 habitantes,Cantabria,54.2
+2012,Número de personas colegiadas en medicina por cada 10.000 habitantes,Cantabria,54.96
+2013,Número de personas colegiadas en medicina por cada 10.000 habitantes,Cantabria,56.14
+2014,Número de personas colegiadas en medicina por cada 10.000 habitantes,Cantabria,57.35
+2015,Número de personas colegiadas en medicina por cada 10.000 habitantes,Cantabria,58.75
+2016,Número de personas colegiadas en medicina por cada 10.000 habitantes,Cantabria,60.31
+2017,Número de personas colegiadas en medicina por cada 10.000 habitantes,Cantabria,61.09
+2018,Número de personas colegiadas en medicina por cada 10.000 habitantes,Cantabria,63.18
+2019,Número de personas colegiadas en medicina por cada 10.000 habitantes,Cantabria,63.57
+2010,Número de personas colegiadas en enfermería por cada 10.000 habitantes,España,56.34
+2011,Número de personas colegiadas en enfermería por cada 10.000 habitantes,España,57.31
+2012,Número de personas colegiadas en enfermería por cada 10.000 habitantes,España,56.61
+2013,Número de personas colegiadas en enfermería por cada 10.000 habitantes,España,57.09
+2014,Número de personas colegiadas en enfermería por cada 10.000 habitantes,España,59.0
+2015,Número de personas colegiadas en enfermería por cada 10.000 habitantes,España,61.07
+2016,Número de personas colegiadas en enfermería por cada 10.000 habitantes,España,62.61
+2017,Número de personas colegiadas en enfermería por cada 10.000 habitantes,España,64.26
+2018,Número de personas colegiadas en enfermería por cada 10.000 habitantes,España,65.57
+2019,Número de personas colegiadas en enfermería por cada 10.000 habitantes,España,66.79
+2010,Número de personas colegiadas en enfermería por cada 10.000 habitantes,Cantabria,68.1
+2011,Número de personas colegiadas en enfermería por cada 10.000 habitantes,Cantabria,67.78
+2012,Número de personas colegiadas en enfermería por cada 10.000 habitantes,Cantabria,68.67
+2013,Número de personas colegiadas en enfermería por cada 10.000 habitantes,Cantabria,70.26
+2014,Número de personas colegiadas en enfermería por cada 10.000 habitantes,Cantabria,71.19
+2015,Número de personas colegiadas en enfermería por cada 10.000 habitantes,Cantabria,73.6
+2016,Número de personas colegiadas en enfermería por cada 10.000 habitantes,Cantabria,76.24
+2017,Número de personas colegiadas en enfermería por cada 10.000 habitantes,Cantabria,78.55
+2018,Número de personas colegiadas en enfermería por cada 10.000 habitantes,Cantabria,81.24
+2019,Número de personas colegiadas en enfermería por cada 10.000 habitantes,Cantabria,84.15
+2010,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,España,5.96
+2011,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,España,6.21
+2012,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,España,6.67
+2013,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,España,6.98
+2014,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,España,7.17
+2015,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,España,7.46
+2016,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,España,7.68
+2017,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,España,7.86
+2018,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,España,8.05
+2019,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,España,8.2
+2010,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,Cantabria,4.87
+2011,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,Cantabria,5.05
+2012,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,Cantabria,5.51
+2013,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,Cantabria,5.8
+2014,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,Cantabria,6.32
+2015,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,Cantabria,6.83
+2016,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,Cantabria,7.22
+2017,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,Cantabria,7.31
+2018,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,Cantabria,7.44
+2019,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,Cantabria,7.5
+2010,Número de personas colegiadas en farmacia por cada 10.000 habitantes,España,13.76
+2011,Número de personas colegiadas en farmacia por cada 10.000 habitantes,España,13.88
+2012,Número de personas colegiadas en farmacia por cada 10.000 habitantes,España,14.01
+2013,Número de personas colegiadas en farmacia por cada 10.000 habitantes,España,14.33
+2014,Número de personas colegiadas en farmacia por cada 10.000 habitantes,España,14.72
+2015,Número de personas colegiadas en farmacia por cada 10.000 habitantes,España,15.02
+2016,Número de personas colegiadas en farmacia por cada 10.000 habitantes,España,15.29
+2017,Número de personas colegiadas en farmacia por cada 10.000 habitantes,España,15.54
+2018,Número de personas colegiadas en farmacia por cada 10.000 habitantes,España,15.77
+2019,Número de personas colegiadas en farmacia por cada 10.000 habitantes,España,15.9
+2010,Número de personas colegiadas en farmacia por cada 10.000 habitantes,Cantabria,11.34
+2011,Número de personas colegiadas en farmacia por cada 10.000 habitantes,Cantabria,11.36
+2012,Número de personas colegiadas en farmacia por cada 10.000 habitantes,Cantabria,11.59
+2013,Número de personas colegiadas en farmacia por cada 10.000 habitantes,Cantabria,11.74
+2014,Número de personas colegiadas en farmacia por cada 10.000 habitantes,Cantabria,11.89
+2015,Número de personas colegiadas en farmacia por cada 10.000 habitantes,Cantabria,12.22
+2016,Número de personas colegiadas en farmacia por cada 10.000 habitantes,Cantabria,12.11
+2017,Número de personas colegiadas en farmacia por cada 10.000 habitantes,Cantabria,12.45
+2018,Número de personas colegiadas en farmacia por cada 10.000 habitantes,Cantabria,12.69
+2019,Número de personas colegiadas en farmacia por cada 10.000 habitantes,Cantabria,13.27

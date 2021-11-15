@@ -1,41 +1,45 @@
 Year,Serie,RefArea,Value
-2010,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,España,21.82
-2011,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,España,16.05
-2012,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,España,12.05
-2013,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,España,16.74
-2014,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,España,17.05
-2015,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,España,15.18
-2016,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,España,15.89
-2017,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,España,11.54
-2018,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,España,15.9
-2019,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,España,14.7
-2010,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,Cantabria,22.48
-2011,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,Cantabria,13.73
-2012,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,Cantabria,11.88
-2013,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,Cantabria,18.01
-2014,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,Cantabria,9.94
-2015,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,Cantabria,8.34
-2016,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,Cantabria,14.09
-2017,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,Cantabria,2.75
-2018,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,Cantabria,8.74
-2019,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,Cantabria,14.22
-2010,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,España,18.42
-2011,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,España,15.59
-2012,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,España,15.02
-2013,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,España,18.34
-2014,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,España,15.86
-2015,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,España,15.69
-2016,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,España,16.24
-2017,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,España,15.18
-2018,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,España,16.99
-2019,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,España,14.1
-2010,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,Cantabria,17.58
-2011,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,Cantabria,14.99
-2012,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,Cantabria,11.35
-2013,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,Cantabria,15.16
-2014,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,Cantabria,7.84
-2015,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,Cantabria,11.4
-2016,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,Cantabria,12.82
-2017,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,Cantabria,1.52
-2018,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,Cantabria,6.91
-2019,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,Cantabria,6.83
+2010,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,21.81
+2011,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,16.05
+2012,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,12.05
+2013,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,16.74
+2014,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,17.05
+2015,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,15.18
+2016,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,15.89
+2017,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,11.54
+2018,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,15.94
+2019,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,14.7
+2020,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,19.71
+2010,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,22.48
+2011,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,13.73
+2012,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,11.88
+2013,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,18.01
+2014,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,9.94
+2015,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,8.34
+2016,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,14.09
+2017,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,2.75
+2018,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,8.74
+2019,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,14.22
+2020,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,18.95
+2010,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,18.41
+2011,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,15.59
+2012,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,15.02
+2013,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,18.34
+2014,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,15.86
+2015,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,15.69
+2016,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,16.24
+2017,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,15.18
+2018,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,16.99
+2019,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,14.08
+2020,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",España,21.89
+2010,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,17.58
+2011,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,14.99
+2012,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,11.35
+2013,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,15.16
+2014,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,7.84
+2015,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,11.4
+2016,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,12.82
+2017,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,1.52
+2018,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,6.91
+2019,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,6.83
+2020,"Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",Cantabria,13.78

@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Serie,RefArea,Value
+2010,Superficie forestal en proporción a la superficie total,España,36.32
+2011,Superficie forestal en proporción a la superficie total,España,36.31
+2012,Superficie forestal en proporción a la superficie total,España,36.35
+2013,Superficie forestal en proporción a la superficie total,España,36.35
+2014,Superficie forestal en proporción a la superficie total,España,36.35
+2015,Superficie forestal en proporción a la superficie total,España,36.36
+2016,Superficie forestal en proporción a la superficie total,España,36.32
+2017,Superficie forestal en proporción a la superficie total,España,36.49
+2018,Superficie forestal en proporción a la superficie total,España,36.5
+2010,Superficie forestal en proporción a la superficie total,Cantabria,39.59
+2011,Superficie forestal en proporción a la superficie total,Cantabria,39.66
+2012,Superficie forestal en proporción a la superficie total,Cantabria,39.66
+2013,Superficie forestal en proporción a la superficie total,Cantabria,39.62
+2014,Superficie forestal en proporción a la superficie total,Cantabria,39.61
+2015,Superficie forestal en proporción a la superficie total,Cantabria,39.62
+2016,Superficie forestal en proporción a la superficie total,Cantabria,39.61
+2017,Superficie forestal en proporción a la superficie total,Cantabria,39.61
+2018,Superficie forestal en proporción a la superficie total,Cantabria,39.6

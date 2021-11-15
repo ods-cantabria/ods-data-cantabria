@@ -1,41 +1,45 @@
 Year,Serie,RefArea,Value
-2010,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",España,13.8
-2011,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",España,13.77
-2012,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",España,14.36
-2013,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",España,13.89
-2014,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",España,15.9
-2015,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",España,15.93
-2016,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",España,15.48
-2017,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",España,15.71
-2018,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",España,14.63
-2019,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",España,13.58
-2010,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",Cantabria,11.7
-2011,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",Cantabria,10.0
-2012,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",Cantabria,11.5
-2013,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",Cantabria,9.9
-2014,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",Cantabria,12.1
-2015,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",Cantabria,10.0
-2016,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",Cantabria,11.6
-2017,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",Cantabria,10.1
-2018,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",Cantabria,13.9
-2019,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",Cantabria,9.41
-2010,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",España,13.47
-2011,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",España,13.0
-2012,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",España,13.83
-2013,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",España,13.34
-2014,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",España,14.85
-2015,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",España,14.68
-2016,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",España,14.73
-2017,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",España,14.66
-2018,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",España,13.79
-2019,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",España,13.51
-2010,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",Cantabria,11.7
-2011,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",Cantabria,9.4
-2012,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",Cantabria,10.2
-2013,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",Cantabria,9.7
-2014,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",Cantabria,12.1
-2015,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",Cantabria,10.9
-2016,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",Cantabria,9.6
-2017,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",Cantabria,10.0
-2018,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",Cantabria,13.7
-2019,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",Cantabria,12.56
+2010,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,13.8
+2011,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,13.77
+2012,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,14.36
+2013,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,13.89
+2014,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,15.9
+2015,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,15.93
+2016,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,15.48
+2017,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,15.71
+2018,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,14.63
+2019,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,13.58
+2020,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,14.6
+2010,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,11.7
+2011,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,10.0
+2012,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,11.5
+2013,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,9.9
+2014,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,12.1
+2015,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,10.0
+2016,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,11.6
+2017,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,10.1
+2018,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,13.9
+2019,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,9.41
+2020,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,11.51
+2010,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,13.47
+2011,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,13.0
+2012,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,13.83
+2013,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,13.34
+2014,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,14.85
+2015,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,14.68
+2016,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,14.73
+2017,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,14.66
+2018,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,13.79
+2019,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,13.51
+2020,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",España,13.67
+2010,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,11.7
+2011,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,9.4
+2012,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,10.2
+2013,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,9.7
+2014,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,12.1
+2015,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,10.9
+2016,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,9.6
+2017,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,10.0
+2018,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,13.7
+2019,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,12.56
+2020,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",Cantabria,11.51

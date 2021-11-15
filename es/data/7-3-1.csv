@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Serie,Región,Value
+2011,Intensidad energética medida en función de la energía primaria y el PIB,España,21.7
+2012,Intensidad energética medida en función de la energía primaria y el PIB,España,22.1
+2013,Intensidad energética medida en función de la energía primaria y el PIB,España,21.89
+2014,Intensidad energética medida en función de la energía primaria y el PIB,España,21.36
+2015,Intensidad energética medida en función de la energía primaria y el PIB,España,20.97
+2016,Intensidad energética medida en función de la energía primaria y el PIB,España,20.5
+2017,Intensidad energética medida en función de la energía primaria y el PIB,España,20.15
+2018,Intensidad energética medida en función de la energía primaria y el PIB,España,19.77
+2019,Intensidad energética medida en función de la energía primaria y el PIB,España,19.07
+2011,Intensidad energética medida en función de la energía primaria y el PIB,Cantabria,30.7
+2012,Intensidad energética medida en función de la energía primaria y el PIB,Cantabria,30.96
+2013,Intensidad energética medida en función de la energía primaria y el PIB,Cantabria,31.78
+2014,Intensidad energética medida en función de la energía primaria y el PIB,Cantabria,30.89
+2015,Intensidad energética medida en función de la energía primaria y el PIB,Cantabria,29.66
+2016,Intensidad energética medida en función de la energía primaria y el PIB,Cantabria,28.59
+2017,Intensidad energética medida en función de la energía primaria y el PIB,Cantabria,28.93
+2018,Intensidad energética medida en función de la energía primaria y el PIB,Cantabria,27.6
+2019,Intensidad energética medida en función de la energía primaria y el PIB,Cantabria,26.68

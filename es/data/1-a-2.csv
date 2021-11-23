@@ -1,36 +1,20 @@
 Year,Serie,Región,Value
-2012,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,20.43
-2012,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,30.98
-2013,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,23.29
-2013,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,35.35
-2014,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,23.36
-2014,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,35.36
-2015,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,23.53
-2015,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,35.71
-2016,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,24.46
-2016,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,36.97
-2017,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,24.3
-2017,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,36.71
-2018,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,23.83
-2018,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,36.46
-2019,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,23.58
-2019,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,36.44
-2012,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,20.17
-2012,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,30.03
-2013,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,22.28
-2013,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,35.46
-2014,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,23.81
-2014,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,37.68
-2015,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,22.89
-2015,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,38.72
-2016,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,24.43
-2016,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,36.65
-2017,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,24.18
-2017,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,37.16
-2018,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,23.76
-2018,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,37.11
-2019,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,23.55
-2019,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,37.02
+2012,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,España,20.43
+2013,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,España,23.29
+2014,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,España,23.36
+2015,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,España,23.53
+2016,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,España,24.46
+2017,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,España,24.3
+2018,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,España,23.83
+2019,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,España,23.58
+2012,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,Cantabria,20.17
+2013,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,Cantabria,22.28
+2014,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,Cantabria,23.81
+2015,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,Cantabria,22.89
+2016,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,Cantabria,24.43
+2017,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,Cantabria,24.18
+2018,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,Cantabria,23.76
+2019,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,Cantabria,23.55
 2010,Proporción del gasto público total que se dedica a educación,Cantabria,12.56
 2011,Proporción del gasto público total que se dedica a educación,Cantabria,12.96
 2012,Proporción del gasto público total que se dedica a educación,Cantabria,11.47
@@ -41,6 +25,22 @@ Year,Serie,Región,Value
 2017,Proporción del gasto público total que se dedica a educación,Cantabria,11.85
 2018,Proporción del gasto público total que se dedica a educación,Cantabria,11.78
 2019,Proporción del gasto público total que se dedica a educación,Cantabria,11.66
+2012,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,30.98
+2013,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,35.35
+2014,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,35.36
+2015,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,35.71
+2016,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,36.97
+2017,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,36.71
+2018,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,36.46
+2019,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,España,36.44
+2012,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,30.03
+2013,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,35.46
+2014,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,37.68
+2015,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,38.72
+2016,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,36.65
+2017,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,37.16
+2018,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,37.11
+2019,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,Cantabria,37.02
 2010,Proporción del gasto público total que se dedica a salud,Cantabria,20.73
 2011,Proporción del gasto público total que se dedica a salud,Cantabria,18.62
 2012,Proporción del gasto público total que se dedica a salud,Cantabria,24.21

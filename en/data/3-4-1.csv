@@ -9,6 +9,7 @@ Year,Serie,RefArea,Value
 2017,Tasa de mortalidad atribuida a las enfermedades cardiovasculares,España,263.18
 2018,Tasa de mortalidad atribuida a las enfermedades cardiovasculares,España,258.64
 2019,Tasa de mortalidad atribuida a las enfermedades cardiovasculares,España,247.56
+2020,Tasa de mortalidad atribuida a las enfermedades cardiovasculares,España,253.09
 2010,Tasa de mortalidad atribuida a las enfermedades cardiovasculares,Cantabria,298.0
 2011,Tasa de mortalidad atribuida a las enfermedades cardiovasculares,Cantabria,291.43
 2012,Tasa de mortalidad atribuida a las enfermedades cardiovasculares,Cantabria,286.93
@@ -19,7 +20,7 @@ Year,Serie,RefArea,Value
 2017,Tasa de mortalidad atribuida a las enfermedades cardiovasculares,Cantabria,281.62
 2018,Tasa de mortalidad atribuida a las enfermedades cardiovasculares,Cantabria,273.69
 2019,Tasa de mortalidad atribuida a las enfermedades cardiovasculares,Cantabria,281.85
-2020,Tasa de mortalidad atribuida a las enfermedades cardiovasculares,Cantabria,278.03
+2020,Tasa de mortalidad atribuida a las enfermedades cardiovasculares,Cantabria,278.02
 2010,Tasa de mortalidad atribuida a las enfermedades respiratorias crónicas,España,68.24
 2011,Tasa de mortalidad atribuida a las enfermedades respiratorias crónicas,España,70.29
 2012,Tasa de mortalidad atribuida a las enfermedades respiratorias crónicas,España,78.04
@@ -30,6 +31,7 @@ Year,Serie,RefArea,Value
 2017,Tasa de mortalidad atribuida a las enfermedades respiratorias crónicas,España,82.81
 2018,Tasa de mortalidad atribuida a las enfermedades respiratorias crónicas,España,84.99
 2019,Tasa de mortalidad atribuida a las enfermedades respiratorias crónicas,España,74.48
+2020,Tasa de mortalidad atribuida a las enfermedades respiratorias crónicas,España,65.62
 2010,Tasa de mortalidad atribuida a las enfermedades respiratorias crónicas,Cantabria,67.16
 2011,Tasa de mortalidad atribuida a las enfermedades respiratorias crónicas,Cantabria,65.76
 2012,Tasa de mortalidad atribuida a las enfermedades respiratorias crónicas,Cantabria,76.47
@@ -51,6 +53,7 @@ Year,Serie,RefArea,Value
 2017,Tasa de mortalidad atribuida a la diabetes,España,21.0
 2018,Tasa de mortalidad atribuida a la diabetes,España,21.23
 2019,Tasa de mortalidad atribuida a la diabetes,España,20.47
+2020,Tasa de mortalidad atribuida a la diabetes,España,23.86
 2010,Tasa de mortalidad atribuida a la diabetes,Cantabria,7.63
 2011,Tasa de mortalidad atribuida a la diabetes,Cantabria,5.75
 2012,Tasa de mortalidad atribuida a la diabetes,Cantabria,8.8
@@ -72,6 +75,7 @@ Year,Serie,RefArea,Value
 2017,Tasa de mortalidad atribuida al cáncer,España,234.4
 2018,Tasa de mortalidad atribuida al cáncer,España,232.25
 2019,Tasa de mortalidad atribuida al cáncer,España,231.11
+2020,Tasa de mortalidad atribuida al cáncer,España,229.19
 2010,Tasa de mortalidad atribuida al cáncer,Cantabria,263.57
 2011,Tasa de mortalidad atribuida al cáncer,Cantabria,267.93
 2012,Tasa de mortalidad atribuida al cáncer,Cantabria,281.69

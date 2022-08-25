@@ -63,8 +63,8 @@ Proporción de personas de 15 y más años que fuman a diario,Proporción de per
 Proporción de personas de 16 años y más que se sienten seguras al caminar solas en su zona de residencia,Proporción de personas de 16 años y más que se sienten seguras al caminar solas en su zona de residencia,2,1
 Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,2,1
 Proporción de personas detenidas que no han sido condenadas respecto al total de personas reclusas,Proporción de personas detenidas que no han sido condenadas respecto al total de personas reclusas,2,1
-"Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral autonómico de pobreza","Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral autonómico de pobreza",2,1
-"Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza","Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza",2,1
+"Proporción de personas en riesgo de pobreza o exclusión social. Indicador AROPE, considerando el umbral autonómico de pobreza","Proporción de personas en riesgo de pobreza o exclusión social. Indicador AROPE, considerando el umbral autonómico de pobreza",2,1
+"Proporción de personas en riesgo de pobreza o exclusión social. Indicador AROPE, considerando el umbral nacional de pobreza","Proporción de personas en riesgo de pobreza o exclusión social. Indicador AROPE, considerando el umbral nacional de pobreza",2,1
 "Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza","Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza",2,1
 "Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza","Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza",2,1
 "Proporción de personas en riesgo de pobreza relativa, considerando el umbral autonómico de pobreza","Proporción de personas en riesgo de pobreza relativa, considerando el umbral autonómico de pobreza",2,1
@@ -113,9 +113,9 @@ Residuos urbanos recogidos per cápita,Residuos urbanos recogidos per cápita,2,
 Se ha realizado al menos un censo de población y vivienda en los últimos diez años (1 = SÍ; 0 = NO),Se ha realizado al menos un censo de población y vivienda en los últimos diez años (1 = SÍ; 0 = NO),2,1
 Superficie de bosque en proporción a la superficie total,Superficie de bosque en proporción a la superficie total,2,1
 Superficie forestal con instrumentos de gestión sostenible vigentes,Superficie forestal con instrumentos de gestión sostenible vigentes,2,1
-Tasa de crecimiento anual del PIB real per cápita,Tasa de crecimiento anual del PIB real per cápita,2,1
+Tasa de crecimiento anual del PIB real per cápita,Tasa de crecimiento anual del PIB real per cápita,3,1
 Tasa de crecimiento anual del PIB real por hora trabajada,Tasa de crecimiento anual del PIB real por hora trabajada,2,1
-Tasa de crecimiento anual del PIB real por persona empleada,Tasa de crecimiento anual del PIB real por persona empleada,2,1
+Tasa de crecimiento anual del PIB real por persona empleada,Tasa de crecimiento anual del PIB real por persona empleada,3,1
 Tasa de crecimiento del PIB generado por el turismo,Tasa de crecimiento del PIB generado por el turismo,1,1
 Tasa de crecimiento per cápita de los gastos de los hogares de la población total,Tasa de crecimiento per cápita de los gastos de los hogares de la población total,2,1
 Tasa de crecimiento per cápita de los gastos de los hogares del 40% más pobre de la población,Tasa de crecimiento per cápita de los gastos de los hogares del 40% más pobre de la población,2,1

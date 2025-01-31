@@ -1,0 +1,53 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica",
+                "Proporción de personas de 16 y más años con estado de salud percibido bueno o muy bueno",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-8-1",
+  "title": "Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)"
+}

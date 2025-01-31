@@ -1,0 +1,53 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de desempleo",
+                "Tasa de desempleo de las personas entre 16 y 64 años con discapacidad",
+                "Tasa de desempleo de los hombres",
+                "Tasa de desempleo de las mujeres",
+                "Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad",
+                "Tasa de desempleo de las personas entre 16 y 64 años",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-2",
+  "title": "global_indicators.8-5-2-title"
+}

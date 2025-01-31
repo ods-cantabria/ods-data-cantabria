@@ -1,0 +1,5005 @@
+{
+  "name": "all",
+  "title": "All indicators",
+  "resources": [
+    {
+      "path": "13-1-1/data.csv",
+      "name": "13-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+    },
+    {
+      "path": "17-8-1/data.csv",
+      "name": "17-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas entre 16 y 74 años que han utilizado Internet en los últimos tres meses",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of individuals using the Internet"
+    },
+    {
+      "path": "5-3-1/data.csv",
+      "name": "5-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de mujeres de 16 y 17 años que han contraído matrimonio con un hombre",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
+    },
+    {
+      "path": "10-7-4/data.csv",
+      "name": "10-7-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de personas refugiadas por cada 100.000 habitantes",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.10-7-4-title"
+    },
+    {
+      "path": "9-2-1/data.csv",
+      "name": "9-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Valor añadido del sector manufacturero per cápita",
+                "Valor añadido del sector manufacturero en proporción al PIB",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Manufacturing value added as a proportion of GDP and per capita"
+    },
+    {
+      "path": "16-3-2/data.csv",
+      "name": "16-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas detenidas que no han sido condenadas respecto al total de personas reclusas",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Unsentenced detainees as a proportion of overall prison population"
+    },
+    {
+      "path": "5-1-1/data.csv",
+      "name": "5-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género: marco legal global y vida pública",
+                "Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género: violencia contra la mujer",
+                "Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género: empleo y subsidios económicos",
+                "Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género: matrimonio y familia",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex"
+    },
+    {
+      "path": "11-4-1/data.csv",
+      "name": "11-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gasto per cápita de las administraciones públicas autonómicas y locales en la preservación, protección y conservación del patrimonio cultural",
+                "Gasto per cápita de las administraciones públicas autonómicas en la preservación, protección y conservación del patrimonio cultural",
+                "Gasto per cápita de las administraciones públicas locales en la preservación, protección y conservación del patrimonio cultural",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage, by type of heritage (cultural, natural, mixed and World Heritage Centre designation), level of government (national, regional and local/municipal), type of expenditure (operating expenditure/investment) and type of private funding (donations in kind, private non-profit sector and sponsorship)"
+    },
+    {
+      "path": "3-3-3/data.csv",
+      "name": "3-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Incidencia de la malaria",
+                "Incidencia de la malaria en los hombres",
+                "Incidencia de la malaria en las mujeres",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Malaria incidence per 1,000 population"
+    },
+    {
+      "path": "13-2-2/data.csv",
+      "name": "13-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB",
+                "Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita",
+                "Emisiones de gases de efecto invernadero respecto al año 1990",
+                "Emisiones de gases de efecto invernadero respecto al año 2005",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total greenhouse gas emissions per year"
+    },
+    {
+      "path": "12-5-1/data.csv",
+      "name": "12-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "National recycling rate, tons of material recycled"
+    },
+    {
+      "path": "16-2-2/data.csv",
+      "name": "16-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de víctimas detectadas de tráfico de personas por cada 100.000 habitantes",
+                "Número de víctimas detectadas de tráfico de personas para explotación sexual por cada 100.000 habitantes",
+                "Número de víctimas detectadas de tráfico de personas para explotación laboral por cada 100.000 habitantes",
+                "Número de víctimas detectadas de tráfico de personas para la obtención de órganos por cada 100.000 habitantes",
+                "Número de víctimas detectadas de tráfico de personas para otros fines (matrimonios forzados, criminalidad forzada o mendicidad) por cada 100.000 habitantes",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
+    },
+    {
+      "path": "17-18-2/data.csv",
+      "name": "17-18-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "La legislación sobre estadísticas cumple los Principios Fundamentales de las Estadísticas Oficiales",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics"
+    },
+    {
+      "path": "1-a-2/data.csv",
+      "name": "1-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación",
+                "Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of total government spending on essential services (education, health and social protection)"
+    },
+    {
+      "path": "17-18-3/data.csv",
+      "name": "17-18-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Se dispone de un plan estadístico autonómico plenamente financiado y en fase de aplicación",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
+    },
+    {
+      "path": "3-a-1/data.csv",
+      "name": "3-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas de 15 y más años que fuman a diario",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
+    },
+    {
+      "path": "3-3-1/data.csv",
+      "name": "3-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Incidencia de los nuevos diagnósticos de VIH",
+                "Incidencia de los nuevos diagnósticos de VIH en los hombres",
+                "Incidencia de los nuevos diagnósticos de VIH en las mujeres",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
+    },
+    {
+      "path": "16-9-1/data.csv",
+      "name": "16-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de menores de 5 años cuyo nacimiento se ha registrado ante una autoridad civil",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "9-2-2/data.csv",
+      "name": "9-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas ocupadas en el sector manufacturero",
+                "Empleo del sector manufacturero en proporción al empleo total (personas empleadas)",
+                "Empleo del sector manufacturero en proporción al empleo total (horas trabajadas)",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Manufacturing employment as a proportion of total employment"
+    },
+    {
+      "path": "17-1-2/data.csv",
+      "name": "17-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuestos",
+                "Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of domestic budget funded by domestic taxes"
+    },
+    {
+      "path": "3-7-2/data.csv",
+      "name": "3-7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de fecundidad de las adolescentes entre 10 y 14 años por cada 1.000 mujeres de ese grupo de edad",
+                "Tasa de fecundidad de las adolescentes entre 15 y 19 años por cada 1.000 mujeres de ese grupo de edad",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
+    },
+    {
+      "path": "8-5-2/data.csv",
+      "name": "8-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de desempleo",
+                "Tasa de desempleo de las personas entre 16 y 64 años con discapacidad",
+                "Tasa de desempleo de los hombres",
+                "Tasa de desempleo de las mujeres",
+                "Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad",
+                "Tasa de desempleo de las personas entre 16 y 64 años",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Unemployment rate, by sex, age and persons with disabilities"
+    },
+    {
+      "path": "2-2-2/data.csv",
+      "name": "2-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de menores entre 2 y 17 años con obesidad, sobrepeso o peso insuficiente",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
+    },
+    {
+      "path": "5-5-1/data.csv",
+      "name": "5-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de escaños ocupados por mujeres en los parlamentos autonómicos",
+                "Proporción de consejerías ocupadas por mujeres en los gobiernos autonómicos",
+                "Proporción de alcaldías ocupadas por mujeres en los gobiernos locales",
+                "Proporción de concejalías ocupadas por mujeres en los gobiernos locales",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
+    },
+    {
+      "path": "5-a-2/data.csv",
+      "name": "5-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Grado en que el marco jurídico garantiza la igualdad de derechos de la mujer a la propiedad o el control de tierras",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control"
+    },
+    {
+      "path": "9-5-1/data.csv",
+      "name": "9-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gastos en investigación y desarrollo en proporción al PIB",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Research and development expenditure as a proportion of GDP"
+    },
+    {
+      "path": "12-1-1/data.csv",
+      "name": "12-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Se elaboran, adoptan o aplican instrumentos de política destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies"
+    },
+    {
+      "path": "9-4-1/data.csv",
+      "name": "9-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Emisiones de CO2 de las unidades residentes por unidad de PIB",
+                "Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero",
+                "Emisiones de CO2 respecto al año 1990",
+                "Emisiones de CO2 respecto al año 2005",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "CO2 emission per unit of value added"
+    },
+    {
+      "path": "4-5-1/data.csv",
+      "name": "4-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Índice de paridad entre personas con y sin limitaciones por problemas de salud de la población entre 18 y 64 años que ha realizado actividades educativas en los últimos 12 meses",
+                "Índice de paridad entre mujeres y hombres de la población entre 18 y 64 años que ha realizado actividades educativas en los últimos 12 meses",
+                "Índice de paridad entre personas residentes en municipios de menos de 10.000 habitantes y residentes en municipios de más de 10.000 habitantes de la población entre 15 y 64 años que ha realizado estudios o formación en las últimas cuatro semanas",
+                "Índice de paridad entre personas pertenecientes a hogares que se encuentran en el nivel de ingresos inferior y superior de la población entre 18 y 64 años que ha realizado actividades educativas en los últimos 12 meses",
+                "Índice de paridad entre mujeres y hombres de la población entre 15 y 64 años que ha realizado estudios o formación en las últimas cuatro semanas",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
+    },
+    {
+      "path": "4-c-1/data.csv",
+      "name": "4-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción del profesorado de educación preescolar que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo",
+                "Proporción del profesorado de educación primaria que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo",
+                "Proporción del profesorado de educación secundaria inferior que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo",
+                "Proporción del profesorado de educación secundaria superior que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country"
+    },
+    {
+      "path": "3-3-4/data.csv",
+      "name": "3-3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Incidencia de la hepatitis B",
+                "Incidencia de la hepatitis B en los hombres",
+                "Incidencia de la hepatitis B en las mujeres",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Hepatitis B incidence per 100,000 population"
+    },
+    {
+      "path": "8-9-1/data.csv",
+      "name": "8-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pernoctaciones de turistas por habitante",
+                "Pernoctaciones de turistas no residentes por habitante",
+                "Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",
+                "Proporción del gasto en viajes culturales sobre el gasto en viajes",
+                "Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas",
+                "Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes",
+                "Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas",
+                "Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados",
+                "Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
+    },
+    {
+      "path": "5-a-1a/data.csv",
+      "name": "5-a-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de titulares de explotaciones agrícolas, respecto al total de personas trabajadoras en la agricultura",
+                "Proporción de hombres titulares de explotaciones agrícolas, respecto al total de hombres trabajadores en la agricultura",
+                "Proporción de mujeres titulares de explotaciones agrícolas, respecto al total de mujeres trabajadoras en la agricultura",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex"
+    },
+    {
+      "path": "4-1-1/data.csv",
+      "name": "4-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura",
+                "Proporción de hombres de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura",
+                "Proporción de mujeres de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura",
+                "Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en matemáticas",
+                "Proporción de hombres de 15 años que han alcanzado al menos el nivel 2 de competencia en matemáticas",
+                "Proporción de mujeres de 15 años que han alcanzado al menos el nivel 2 de competencia en matemáticas",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
+    },
+    {
+      "path": "3-8-1/data.csv",
+      "name": "3-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica",
+                "Proporción de personas de 16 y más años con estado de salud percibido bueno o muy bueno",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)"
+    },
+    {
+      "path": "16-1-4/data.csv",
+      "name": "16-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas de 16 años y más que se sienten seguras al caminar solas en su zona de residencia",
+                "Proporción de personas que viven en una zona con problemas de delincuencia o vandalismo",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population that feel safe walking alone around the area they live"
+    },
+    {
+      "path": "4-1-2/data.csv",
+      "name": "4-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas entre 18 y 20 años que han completado al menos la primera etapa de enseñanza secundaria",
+                "Proporción de hombres entre 18 y 20 años que han completado al menos la primera etapa de enseñanza secundaria",
+                "Proporción de mujeres entre 18 y 20 años que han completado al menos la primera etapa de enseñanza secundaria",
+                "Proporción de personas entre 20 y 22 años que han completado al menos la segunda etapa de enseñanza secundaria",
+                "Proporción de hombres entre 20 y 22 años que han completado al menos la segunda etapa de enseñanza secundaria",
+                "Proporción de mujeres entre 20 y 22 años que han completado al menos la segunda etapa de enseñanza secundaria",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.4-1-2-title"
+    },
+    {
+      "path": "10-4-1/data.csv",
+      "name": "10-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción del PIB generada por el trabajo asalariado",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Labour share of GDP, comprising wages and social protection transfers"
+    },
+    {
+      "path": "9-b-1/data.csv",
+      "name": "9-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción del valor añadido total del sector manufacturero correspondiente a las actividades de media-alta y alta tecnología",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of medium and high-tech industry value added in total value added"
+    },
+    {
+      "path": "4-a-1/data.csv",
+      "name": "4-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de centros educativos no universitarios con acceso a electricidad",
+                "Proporción de aulas habituales de clase con conexión a Internet en centros educativos no universitarios",
+                "Alumnado medio por ordenador destinado a tareas de enseñanza y aprendizaje en centros educativos no universitarios",
+                "Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable",
+                "Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo",
+                "Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)"
+    },
+    {
+      "path": "9-c-1/data.csv",
+      "name": "9-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de hogares cubiertos con redes móviles 3,5G",
+                "Proporción de hogares cubiertos con redes móviles 4G",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population covered by a mobile network, by technology"
+    },
+    {
+      "path": "4-6-1/data.csv",
+      "name": "4-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de comprensión lectora",
+                "Proporción de hombres entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de comprensión lectora",
+                "Proporción de mujeres entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de comprensión lectora",
+                "Proporción de personas entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de matemáticas",
+                "Proporción de hombres entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de matemáticas",
+                "Proporción de mujeres entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de matemáticas",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex"
+    },
+    {
+      "path": "9-5-2/data.csv",
+      "name": "9-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de personas investigadoras (en equivalente a tiempo completo) por cada millón de habitantes",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Researchers (in full-time equivalent) per million inhabitants"
+    },
+    {
+      "path": "11-5-1/data.csv",
+      "name": "11-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+    },
+    {
+      "path": "5-a-1b/data.csv",
+      "name": "5-a-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de mujeres titulares de explotaciones agrícolas, respecto al total de titulares de explotaciones agrícolas",
+                "Proporción de mujeres titulares de explotaciones agrícolas en propiedad, respecto al total de titulares de explotaciones agrícolas en propiedad",
+                "Proporción de mujeres titulares de explotaciones agrícolas en arrendamiento, respecto al total de titulares de explotaciones agrícolas en arrendamiento",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of women among owners or rights-bearers of agricultural land, by type of tenure"
+    },
+    {
+      "path": "3-1-1/data.csv",
+      "name": "3-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de mortalidad materna",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Maternal mortality ratio"
+    },
+    {
+      "path": "4-2-2/data.csv",
+      "name": "4-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa neta de escolarización a los 5 años",
+                "Tasa neta de escolarización de los niños de 5 años",
+                "Tasa neta de escolarización de las niñas de 5 años",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
+    },
+    {
+      "path": "3-5-1/data.csv",
+      "name": "3-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes",
+                "Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres",
+                "Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres",
+                "Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes",
+                "Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres",
+                "Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
+    },
+    {
+      "path": "10-1-1/data.csv",
+      "name": "10-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de crecimiento per cápita de los ingresos de los hogares del 40% más pobre de la población",
+                "Tasa de crecimiento per cápita de los gastos de los hogares de la población total",
+                "Tasa de crecimiento per cápita de los gastos de los hogares del 40% más pobre de la población",
+                "Tasa de crecimiento per cápita de los ingresos de los hogares de la población total",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
+    },
+    {
+      "path": "1-2-2/data.csv",
+      "name": "1-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza",
+                "Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral autonómico de pobreza",
+                "Proporción de personas en situación de carencia material y social severa",
+                "Proporción de personas viviendo en hogares con baja intensidad de trabajo",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+    },
+    {
+      "path": "8-6-1/data.csv",
+      "name": "8-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de jóvenes entre 15 y 24 años que no cursan estudios, no están empleados ni reciben formación",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
+    },
+    {
+      "path": "7-2-1/data.csv",
+      "name": "7-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de energías renovables en la producción de energía eléctrica",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Renewable energy share in the total final energy consumption"
+    },
+    {
+      "path": "15-8-1/data.csv",
+      "name": "15-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Se dispone de legislación pertinente y se destinan recursos para la prevención o el control de las especies exóticas invasoras",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
+    },
+    {
+      "path": "3-1-2/data.csv",
+      "name": "3-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de partos atendidos por personal sanitario especializado",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of births attended by skilled health personnel"
+    },
+    {
+      "path": "5-b-1/data.csv",
+      "name": "5-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas entre 16 y 74 años que utilizan el teléfono móvil",
+                "Proporción de mujeres entre 16 y 74 años que utilizan el teléfono móvil",
+                "Proporción de hombres entre 16 y 74 años que utilizan el teléfono móvil",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of individuals who own a mobile telephone, by sex"
+    },
+    {
+      "path": "3-7-1/data.csv",
+      "name": "3-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que cubren sus necesidades de planificación familiar con métodos modernos",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
+    },
+    {
+      "path": "6-b-1/data.csv",
+      "name": "6-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión y el saneamiento de aguas de consumo",
+                "Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión de aguas de baño",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management"
+    },
+    {
+      "path": "3-4-1/data.csv",
+      "name": "3-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de mortalidad atribuida a las enfermedades cardiovasculares",
+                "Tasa de mortalidad atribuida a las enfermedades respiratorias crónicas",
+                "Tasa de mortalidad atribuida a la diabetes",
+                "Tasa de mortalidad atribuida al cáncer",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+    },
+    {
+      "path": "11-2-1/data.csv",
+      "name": "11-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de la población que tiene fácil acceso al transporte público",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cantabria",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
+    },
+    {
+      "path": "11-1-1/data.csv",
+      "name": "11-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda",
+                "Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of urban population living in slums, informal settlements or inadequate housing"
+    },
+    {
+      "path": "11-a-1/data.csv",
+      "name": "11-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de la población residente en municipios que disponen de plan general o normas subsidiarias de planeamiento urbanístico",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city"
+    },
+    {
+      "path": "11-6-1/data.csv",
+      "name": "11-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Residuos urbanos recogidos per cápita",
+                "Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados",
+                "Proporción de residuos municipales vertidos en relación al total de residuos municipales generados y tratados",
+                "Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities"
+    },
+    {
+      "path": "17-19-2a/data.csv",
+      "name": "17-19-2a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Se ha realizado al menos un censo de población y vivienda en los últimos diez años",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
+    },
+    {
+      "path": "17-3-1/data.csv",
+      "name": "17-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo",
+                "Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales",
+                "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB",
+                "Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales en proporción al PIB",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget"
+    },
+    {
+      "path": "3-5-2/data.csv",
+      "name": "3-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Consumo anual de alcohol registrado en litros de alcohol puro por persona de 15 y más años",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
+    },
+    {
+      "path": "17-6-1/data.csv",
+      "name": "17-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de líneas de banda ancha fija por cada 100 habitantes",
+                "Número de líneas de banda ancha fija con tecnología de acceso DSL por cada 100 habitantes",
+                "Número de líneas de banda ancha fija con tecnología de acceso HFC por cada 100 habitantes",
+                "Número de líneas de banda ancha fija con tecnología de acceso FTTH por cada 100 habitantes",
+                "Número de líneas de banda ancha fija con otra tecnología de acceso por cada 100 habitantes",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation"
+    },
+    {
+      "path": "17-3-2/data.csv",
+      "name": "17-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Volumen de remesas enviadas al extranjero en proporción al PIB",
+                "Volumen de remesas enviadas al extranjero",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Volume of remittances (in United States dollars) as a proportion of total GDP"
+    },
+    {
+      "path": "16-7-1/data.csv",
+      "name": "16-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio de la proporción de mujeres en el sector público respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en las instituciones sanitarias autonómicas respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en las universidades respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en el sector público local respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en los ayuntamientos respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en el sector público estatal respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en las Fuerzas y Cuerpos de Seguridad del Estado respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en las Fuerzas Armadas respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en la Administración de Justicia del Estado respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en el sector público autonómico respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en la Administración de Justicia Autonómica respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en los centros educativos no universitarios autonómicos respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions"
+    },
+    {
+      "path": "1-5-1/data.csv",
+      "name": "1-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+    },
+    {
+      "path": "9-3-1/data.csv",
+      "name": "9-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción del valor añadido total del sector manufacturero correspondiente a las pequeñas empresas",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of small-scale industries in total industry value added"
+    },
+    {
+      "path": "5-4-1/data.csv",
+      "name": "5-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tiempo dedicado al hogar y familia en un día promedio",
+                "Tiempo dedicado por las mujeres al hogar y familia en un día promedio",
+                "Tiempo dedicado por los hombres al hogar y familia en un día promedio",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location"
+    },
+    {
+      "path": "3-9-3/data.csv",
+      "name": "3-9-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de mortalidad atribuida a intoxicaciones involuntarias",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Mortality rate attributed to unintentional poisoning"
+    },
+    {
+      "path": "3-b-1/data.csv",
+      "name": "3-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cobertura de vacunación de recuerdo contra difteria, tétanos y tosferina en la población infantil",
+                "Cobertura de vacunación de recuerdo contra neumococo en la población infantil",
+                "Cobertura de vacunación de segunda dosis contra sarampión, rubeola y parotiditis en la población infantil",
+                "Cobertura de vacunación de segunda dosis contra papiloma humano en las adolescentes",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of the target population covered by all vaccines included in their national programme"
+    },
+    {
+      "path": "3-4-2/data.csv",
+      "name": "3-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de mortalidad por suicidio",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Suicide mortality rate"
+    },
+    {
+      "path": "7-3-1/data.csv",
+      "name": "7-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Consumo de energía eléctrica por unidad de PIB",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Energy intensity measured in terms of primary energy and GDP"
+    },
+    {
+      "path": "8-b-1/data.csv",
+      "name": "8-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gasto de las administraciones públicas autonómicas en fomento del empleo",
+                "Proporción del gasto de las administraciones públicas autonómicas en fomento del empleo",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
+    },
+    {
+      "path": "2-4-1/data.csv",
+      "name": "2-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible",
+                "Emisiones de amoníaco de la agricultura y ganadería",
+                "Emisiones de amoníaco por hectárea de la agricultura y ganadería",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of agricultural area under productive and sustainable agriculture"
+    },
+    {
+      "path": "3-c-1/data.csv",
+      "name": "3-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de personas colegiadas en medicina por cada 10.000 habitantes",
+                "Número de personas colegiadas en enfermería por cada 10.000 habitantes",
+                "Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes",
+                "Número de personas colegiadas en farmacia por cada 10.000 habitantes",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Health worker density and distribution"
+    },
+    {
+      "path": "1-4-1/data.csv",
+      "name": "1-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de viviendas principales con acceso a agua corriente",
+                "Proporción de viviendas principales que disponen de cuarto de aseo con inodoro",
+                "Proporción de viviendas principales que disponen de baño o ducha",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population living in households with access to basic services"
+    },
+    {
+      "path": "17-19-2b/data.csv",
+      "name": "17-19-2b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "global_indicators.17-19-2b-title"
+    },
+    {
+      "path": "8-10-2/data.csv",
+      "name": "8-10-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas entre 18 y 79 años que tienen una cuenta corriente",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
+    },
+    {
+      "path": "16-6-1/data.csv",
+      "name": "16-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gasto liquidado en proporción al gasto inicial de los presupuestos de las administraciones públicas autonómicas",
+                "Gasto liquidado en proporción al gasto inicial de los presupuestos de las administraciones públicas locales",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+    },
+    {
+      "path": "11-6-2/data.csv",
+      "name": "11-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nivel medio de PM10 en las ciudades ponderado según la población",
+                "Nivel medio de PM2,5 en las ciudades ponderado según la población",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
+    },
+    {
+      "path": "4-4-1/data.csv",
+      "name": "4-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas entre 16 y 74 años que han utilizado alguna habilidad informática",
+                "Proporción de personas entre 16 y 24 años que han utilizado alguna habilidad informática",
+                "Proporción de personas entre 25 y 74 años que han utilizado alguna habilidad informática",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
+    },
+    {
+      "path": "5-5-2/data.csv",
+      "name": "5-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de mujeres en cargos directivos",
+                "Proporción de mujeres en alta dirección",
+                "Proporción de mujeres empresarias",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of women in managerial positions"
+    },
+    {
+      "path": "3-8-2/data.csv",
+      "name": "3-8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas que viven en hogares con grandes gastos sanitarios, superiores al 10% del gasto total del hogar",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
+    },
+    {
+      "path": "3-2-2/data.csv",
+      "name": "3-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de mortalidad neonatal",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Neonatal mortality rate"
+    },
+    {
+      "path": "17-1-1/data.csv",
+      "name": "17-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total government revenue as a proportion of GDP, by source"
+    },
+    {
+      "path": "8-5-1/data.csv",
+      "name": "8-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ingreso medio por hora de trabajo",
+                "Ingreso medio por hora de trabajo de las personas con discapacidad",
+                "Ingreso medio por hora de trabajo de las mujeres",
+                "Ingreso medio por hora de trabajo de los hombres",
+                "Ingreso medio por hora de trabajo de las personas sin discapacidad",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Average hourly earnings of female and male employees, by occupation, age and persons with disabilities"
+    },
+    {
+      "path": "15-2-1/data.csv",
+      "name": "15-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Superficie forestal con instrumentos de gestión sostenible vigentes",
+                "Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Progress towards sustainable forest management"
+    },
+    {
+      "path": "17-13-1/data.csv",
+      "name": "17-13-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Volumen de remesas enviadas al extranjero en proporción al PIB",
+                "Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB",
+                "Ingresos fiscales de las administraciones públicas autonómicas en proporción al PIB",
+                "Tasa de variación interanual del PIB real",
+                "Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB",
+                "Tasa de desempleo",
+                "Tasa de variación interanual del índice de precios de consumo",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Macroeconomic Dashboard"
+    },
+    {
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza",
+                "Proporción de personas en riesgo de pobreza relativa, considerando el umbral autonómico de pobreza",
+                "Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza",
+                "Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population living below the national poverty line, by sex and age"
+    },
+    {
+      "path": "3-3-2/data.csv",
+      "name": "3-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Incidencia de la tuberculosis",
+                "Incidencia de la tuberculosis en los hombres",
+                "Incidencia de la tuberculosis en las mujeres",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Tuberculosis incidence per 100,000 population"
+    },
+    {
+      "path": "10-2-1/data.csv",
+      "name": "10-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",
+                "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
+    },
+    {
+      "path": "15-1-1/data.csv",
+      "name": "15-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Superficie de bosque en proporción a la superficie total",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Forest area as a proportion of total land area"
+    },
+    {
+      "path": "3-2-1/data.csv",
+      "name": "3-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de mortalidad de menores de 5 años",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Under‐five mortality rate"
+    },
+    {
+      "path": "8-2-1/data.csv",
+      "name": "8-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de crecimiento anual del PIB real por persona empleada",
+                "Tasa de crecimiento anual del PIB real por hora trabajada",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Annual growth rate of real GDP per employed person"
+    },
+    {
+      "path": "2-c-1/data.csv",
+      "name": "2-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Índice de precios de los alimentos",
+                "Índice de precios del pan y los cereales",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Indicator of food price anomalies"
+    },
+    {
+      "path": "16-6-2/data.csv",
+      "name": "16-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de enseñanza",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de asistencia sanitaria",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de gestión de pensiones",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de administración de justicia",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de seguridad ciudadana",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de servicios sociales",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de transporte público",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de obras públicas",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de ayuda a personas dependientes",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population satisfied with their last experience of public services"
+    },
+    {
+      "path": "11-3-2/data.csv",
+      "name": "11-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de ciudades que cuentan con una estructura de participación directa de la sociedad civil en la planificación y la gestión urbana que funcione con regularidad y democráticamente",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically"
+    },
+    {
+      "path": "4-3-1/data.csv",
+      "name": "4-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas entre 18 y 64 años que han realizado actividades educativas en los últimos 12 meses",
+                "Proporción de personas entre 25 y 64 años que han realizado estudios o formación en las últimas cuatro semanas",
+                "Proporción de personas entre 15 y 24 años que han realizado estudios o formación en las últimas cuatro semanas",
+                "Proporción de personas entre 15 y 64 años que han realizado estudios o formación en las últimas cuatro semanas",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
+    },
+    {
+      "path": "3-6-1/data.csv",
+      "name": "3-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de mortalidad por lesiones debidas a accidentes de tráfico",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Death rate due to road traffic injuries"
+    },
+    {
+      "path": "6-1-1/data.csv",
+      "name": "6-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas que reciben suministro de agua con cobertura del Sistema Nacional de Aguas de Consumo",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population using safely managed drinking water services"
+    },
+    {
+      "path": "8-1-1/data.csv",
+      "name": "8-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de crecimiento anual del PIB real per cápita",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Annual growth rate of real GDP per capita"
+    },
+    {
+      "path": "8-10-1/data.csv",
+      "name": "8-10-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults"
+    }
+  ]
+}

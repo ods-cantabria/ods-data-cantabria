@@ -1,0 +1,53 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica",
+                "Proporción de personas de 16 y más años con estado de salud percibido bueno o muy bueno",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "Región"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-8-1",
+  "title": "Cobertura de los servicios de salud esenciales (definida como la cobertura media de los servicios esenciales entre la población general y los más desfavorecidos, calculada a partir de intervenciones trazadoras como las relacionadas con la salud reproductiva, materna, neonatal e infantil, las enfermedades infecciosas, las enfermedades no transmisibles y la capacidad de los servicios y el acceso a ellos)"
+}

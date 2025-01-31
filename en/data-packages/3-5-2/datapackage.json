@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Consumo anual de alcohol registrado en litros de alcohol puro por persona de 15 y más años",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "RefArea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-5-2",
+  "title": "Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
+}

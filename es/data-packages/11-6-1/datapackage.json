@@ -1,0 +1,55 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Residuos urbanos recogidos per cápita",
+                "Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados",
+                "Proporción de residuos municipales vertidos en relación al total de residuos municipales generados y tratados",
+                "Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "RefArea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "Región"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-6-1",
+  "title": "Proporción de desechos sólidos urbanos recogidos periódicamente y con una descarga final adecuada respecto del total de desechos sólidos urbanos generados, desglosada por ciudad"
+}

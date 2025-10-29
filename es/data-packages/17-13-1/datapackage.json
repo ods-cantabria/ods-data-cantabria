@@ -38,6 +38,7 @@
             "constraints": {
               "enum": [
                 "España",
+                "Cantabria",
                 ""
               ]
             },

@@ -12,6 +12,19 @@ Year,Serie,RefArea,Value
 2020,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,España,0.21
 2021,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,España,0.21
 2022,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,España,0.21
+2010,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,Cantabria,0.46
+2011,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,Cantabria,0.43
+2012,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,Cantabria,0.44
+2013,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,Cantabria,0.41
+2014,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,Cantabria,0.42
+2015,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,Cantabria,0.41
+2016,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,Cantabria,0.39
+2017,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,Cantabria,0.4
+2018,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,Cantabria,0.41
+2019,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,Cantabria,0.41
+2020,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,Cantabria,0.39
+2021,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,Cantabria,0.4
+2022,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,Cantabria,0.36
 2010,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,España,6.63
 2011,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,España,6.61
 2012,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,España,6.51
@@ -25,6 +38,19 @@ Year,Serie,RefArea,Value
 2020,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,España,4.74
 2021,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,España,5.09
 2022,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,España,5.16
+2010,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,Cantabria,9.96
+2011,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,Cantabria,9.22
+2012,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,Cantabria,9.23
+2013,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,Cantabria,8.19
+2014,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,Cantabria,8.63
+2015,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,Cantabria,8.66
+2016,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,Cantabria,8.47
+2017,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,Cantabria,9.07
+2018,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,Cantabria,9.37
+2019,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,Cantabria,9.47
+2020,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,Cantabria,8.14
+2021,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,Cantabria,8.78
+2022,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,Cantabria,8.27
 2010,Emisiones de gases de efecto invernadero respecto al año 1990,España,21.8
 2011,Emisiones de gases de efecto invernadero respecto al año 1990,España,21.94
 2012,Emisiones de gases de efecto invernadero respecto al año 1990,España,20.13
@@ -38,6 +64,19 @@ Year,Serie,RefArea,Value
 2020,Emisiones de gases de efecto invernadero respecto al año 1990,España,-11.52
 2021,Emisiones de gases de efecto invernadero respecto al año 1990,España,-4.89
 2022,Emisiones de gases de efecto invernadero respecto al año 1990,España,-2.61
+2010,Emisiones de gases de efecto invernadero respecto al año 1990,Cantabria,39.16
+2011,Emisiones de gases de efecto invernadero respecto al año 1990,Cantabria,29.3
+2012,Emisiones de gases de efecto invernadero respecto al año 1990,Cantabria,29.2
+2013,Emisiones de gases de efecto invernadero respecto al año 1990,Cantabria,14.25
+2014,Emisiones de gases de efecto invernadero respecto al año 1990,Cantabria,19.82
+2015,Emisiones de gases de efecto invernadero respecto al año 1990,Cantabria,19.82
+2016,Emisiones de gases de efecto invernadero respecto al año 1990,Cantabria,16.66
+2017,Emisiones de gases de efecto invernadero respecto al año 1990,Cantabria,24.96
+2018,Emisiones de gases de efecto invernadero respecto al año 1990,Cantabria,29.15
+2019,Emisiones de gases de efecto invernadero respecto al año 1990,Cantabria,30.67
+2020,Emisiones de gases de efecto invernadero respecto al año 1990,Cantabria,12.47
+2021,Emisiones de gases de efecto invernadero respecto al año 1990,Cantabria,21.66
+2022,Emisiones de gases de efecto invernadero respecto al año 1990,Cantabria,14.98
 2010,Emisiones de gases de efecto invernadero respecto al año 2005,España,-21.21
 2011,Emisiones de gases de efecto invernadero respecto al año 2005,España,-21.12
 2012,Emisiones de gases de efecto invernadero respecto al año 2005,España,-22.29
@@ -51,3 +90,16 @@ Year,Serie,RefArea,Value
 2020,Emisiones de gases de efecto invernadero respecto al año 2005,España,-42.77
 2021,Emisiones de gases de efecto invernadero respecto al año 2005,España,-38.48
 2022,Emisiones de gases de efecto invernadero respecto al año 2005,España,-37.0
+2010,Emisiones de gases de efecto invernadero respecto al año 2005,Cantabria,-5.31
+2011,Emisiones de gases de efecto invernadero respecto al año 2005,Cantabria,-12.02
+2012,Emisiones de gases de efecto invernadero respecto al año 2005,Cantabria,-12.08
+2013,Emisiones de gases de efecto invernadero respecto al año 2005,Cantabria,-22.26
+2014,Emisiones de gases de efecto invernadero respecto al año 2005,Cantabria,-18.47
+2015,Emisiones de gases de efecto invernadero respecto al año 2005,Cantabria,-18.47
+2016,Emisiones de gases de efecto invernadero respecto al año 2005,Cantabria,-20.61
+2017,Emisiones de gases de efecto invernadero respecto al año 2005,Cantabria,-14.97
+2018,Emisiones de gases de efecto invernadero respecto al año 2005,Cantabria,-12.11
+2019,Emisiones de gases de efecto invernadero respecto al año 2005,Cantabria,-11.08
+2020,Emisiones de gases de efecto invernadero respecto al año 2005,Cantabria,-23.47
+2021,Emisiones de gases de efecto invernadero respecto al año 2005,Cantabria,-17.21
+2022,Emisiones de gases de efecto invernadero respecto al año 2005,Cantabria,-21.76

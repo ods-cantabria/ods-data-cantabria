@@ -11,6 +11,18 @@ Year,Serie,Región,Value
 2021,Incidencia de la tuberculosis,España,7.71
 2022,Incidencia de la tuberculosis,España,7.62
 2023,Incidencia de la tuberculosis,España,8.16
+2012,Incidencia de la tuberculosis,Cantabria,0.12
+2013,Incidencia de la tuberculosis,Cantabria,0.12
+2014,Incidencia de la tuberculosis,Cantabria,0.11
+2015,Incidencia de la tuberculosis,Cantabria,0.1
+2016,Incidencia de la tuberculosis,Cantabria,0.12
+2017,Incidencia de la tuberculosis,Cantabria,0.1
+2018,Incidencia de la tuberculosis,Cantabria,0.14
+2019,Incidencia de la tuberculosis,Cantabria,0.08
+2020,Incidencia de la tuberculosis,Cantabria,0.08
+2021,Incidencia de la tuberculosis,Cantabria,0.06
+2022,Incidencia de la tuberculosis,Cantabria,0.06
+2023,Incidencia de la tuberculosis,Cantabria,0.07
 2012,Incidencia de la tuberculosis en los hombres,España,16.25
 2013,Incidencia de la tuberculosis en los hombres,España,14.45
 2014,Incidencia de la tuberculosis en los hombres,España,14.07
@@ -23,6 +35,18 @@ Year,Serie,Región,Value
 2021,Incidencia de la tuberculosis en los hombres,España,9.8
 2022,Incidencia de la tuberculosis en los hombres,España,9.88
 2023,Incidencia de la tuberculosis en los hombres,España,10.86
+2012,Incidencia de la tuberculosis en los hombres,Cantabria,0.12
+2013,Incidencia de la tuberculosis en los hombres,Cantabria,0.13
+2014,Incidencia de la tuberculosis en los hombres,Cantabria,0.12
+2015,Incidencia de la tuberculosis en los hombres,Cantabria,0.11
+2016,Incidencia de la tuberculosis en los hombres,Cantabria,0.13
+2017,Incidencia de la tuberculosis en los hombres,Cantabria,0.12
+2018,Incidencia de la tuberculosis en los hombres,Cantabria,0.2
+2019,Incidencia de la tuberculosis en los hombres,Cantabria,0.1
+2020,Incidencia de la tuberculosis en los hombres,Cantabria,0.11
+2021,Incidencia de la tuberculosis en los hombres,Cantabria,0.06
+2022,Incidencia de la tuberculosis en los hombres,Cantabria,0.08
+2023,Incidencia de la tuberculosis en los hombres,Cantabria,0.1
 2012,Incidencia de la tuberculosis en las mujeres,España,9.41
 2013,Incidencia de la tuberculosis en las mujeres,España,9.42
 2014,Incidencia de la tuberculosis en las mujeres,España,8.9
@@ -35,3 +59,15 @@ Year,Serie,Región,Value
 2021,Incidencia de la tuberculosis en las mujeres,España,5.7
 2022,Incidencia de la tuberculosis en las mujeres,España,5.44
 2023,Incidencia de la tuberculosis en las mujeres,España,5.56
+2012,Incidencia de la tuberculosis en las mujeres,Cantabria,0.11
+2013,Incidencia de la tuberculosis en las mujeres,Cantabria,0.12
+2014,Incidencia de la tuberculosis en las mujeres,Cantabria,0.1
+2015,Incidencia de la tuberculosis en las mujeres,Cantabria,0.09
+2016,Incidencia de la tuberculosis en las mujeres,Cantabria,0.1
+2017,Incidencia de la tuberculosis en las mujeres,Cantabria,0.09
+2018,Incidencia de la tuberculosis en las mujeres,Cantabria,0.07
+2019,Incidencia de la tuberculosis en las mujeres,Cantabria,0.06
+2020,Incidencia de la tuberculosis en las mujeres,Cantabria,0.04
+2021,Incidencia de la tuberculosis en las mujeres,Cantabria,0.06
+2022,Incidencia de la tuberculosis en las mujeres,Cantabria,0.04
+2023,Incidencia de la tuberculosis en las mujeres,Cantabria,0.04

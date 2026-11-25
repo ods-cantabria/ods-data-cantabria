@@ -30,7 +30,21 @@
             "constraints": {
               "enum": [
                 "España",
-                "Cantabria",
+                "ES79",
+                "ES80",
+                "ES81",
+                "ES82",
+                "ES83",
+                "ES84",
+                "ES85",
+                "ES86",
+                "ES87",
+                "ES88",
+                "ES89",
+                "ES90",
+                "ES91",
+                "ES92",
+                "ES93",
                 ""
               ]
             }

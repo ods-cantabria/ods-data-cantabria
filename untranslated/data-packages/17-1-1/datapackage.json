@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB",
+                "Total de ingresos de las administraciones públicas autonómicas y locales en proporción al PIB",
                 ""
               ]
             }

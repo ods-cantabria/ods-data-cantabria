@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de personas de 16 años y más que se sienten seguras al caminar solas en su zona de residencia",
+                "Proporción de personas de 16 y más años que se sienten seguras al caminar solas en su zona de residencia",
                 "Proporción de personas que viven en una zona con problemas de delincuencia o vandalismo",
                 ""
               ]

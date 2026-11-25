@@ -1,4 +1,5 @@
 Year,Serie,RefArea,Value
+2010,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,España,6.53
 2011,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,España,7.24
 2012,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,España,7.11
 2013,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,España,6.52
@@ -11,6 +12,9 @@ Year,Serie,RefArea,Value
 2020,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,España,9.65
 2021,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,España,10.41
 2022,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,España,10.6
+2023,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,España,11.84
+2024,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,España,11.67
+2010,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,Cantabria,2.62
 2011,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,Cantabria,2.31
 2012,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,Cantabria,2.67
 2013,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,Cantabria,2.12
@@ -23,55 +27,110 @@ Year,Serie,RefArea,Value
 2020,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,Cantabria,1.48
 2021,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,Cantabria,1.38
 2022,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,Cantabria,1.28
-2010,Emisiones de amoníaco de la agricultura y ganadería,España,434.76
-2011,Emisiones de amoníaco de la agricultura y ganadería,España,422.66
-2012,Emisiones de amoníaco de la agricultura y ganadería,España,420.15
-2013,Emisiones de amoníaco de la agricultura y ganadería,España,423.22
-2014,Emisiones de amoníaco de la agricultura y ganadería,España,443.33
-2015,Emisiones de amoníaco de la agricultura y ganadería,España,444.13
-2016,Emisiones de amoníaco de la agricultura y ganadería,España,444.41
-2017,Emisiones de amoníaco de la agricultura y ganadería,España,456.37
-2018,Emisiones de amoníaco de la agricultura y ganadería,España,449.71
-2019,Emisiones de amoníaco de la agricultura y ganadería,España,440.81
-2020,Emisiones de amoníaco de la agricultura y ganadería,España,447.58
-2021,Emisiones de amoníaco de la agricultura y ganadería,España,440.68
-2022,Emisiones de amoníaco de la agricultura y ganadería,España,425.43
-2010,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,8.56
-2011,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,6.88
-2012,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,6.77
-2013,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.15
-2014,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.85
-2015,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.48
-2016,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.27
-2017,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.24
-2018,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.08
-2019,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,6.93
-2020,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.18
-2021,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.52
-2022,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,8.37
-2010,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,17.2
-2011,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,16.58
-2012,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,16.52
-2013,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,16.63
-2014,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,17.48
-2015,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,17.58
-2016,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,17.6
-2017,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,17.99
-2018,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,17.78
-2019,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,17.44
-2020,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,17.72
-2021,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,17.41
-2022,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,16.85
-2010,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,35.93
-2011,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,27.44
-2012,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,27.06
-2013,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,28.62
-2014,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,31.31
-2015,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,29.95
-2016,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,29.19
-2017,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,29.01
-2018,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,26.48
-2019,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,25.87
-2020,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,26.82
-2021,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,28.06
-2022,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,31.3
+2023,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,Cantabria,1.19
+2024,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,Cantabria,1.33
+2010,Emisiones de amoníaco de la agricultura y ganadería,España,468.95
+2011,Emisiones de amoníaco de la agricultura y ganadería,España,453.52
+2012,Emisiones de amoníaco de la agricultura y ganadería,España,452.1
+2013,Emisiones de amoníaco de la agricultura y ganadería,España,460.31
+2014,Emisiones de amoníaco de la agricultura y ganadería,España,485.21
+2015,Emisiones de amoníaco de la agricultura y ganadería,España,488.15
+2016,Emisiones de amoníaco de la agricultura y ganadería,España,485.19
+2017,Emisiones de amoníaco de la agricultura y ganadería,España,498.03
+2018,Emisiones de amoníaco de la agricultura y ganadería,España,491.75
+2019,Emisiones de amoníaco de la agricultura y ganadería,España,482.36
+2020,Emisiones de amoníaco de la agricultura y ganadería,España,489.77
+2021,Emisiones de amoníaco de la agricultura y ganadería,España,489.46
+2022,Emisiones de amoníaco de la agricultura y ganadería,España,439.69
+2023,Emisiones de amoníaco de la agricultura y ganadería,España,436.03
+2024,Emisiones de amoníaco de la agricultura y ganadería,España,440.7
+2010,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,8.5
+2011,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,6.85
+2012,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,6.74
+2013,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.1
+2014,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.8
+2015,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.43
+2016,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.22
+2017,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.19
+2018,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.03
+2019,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,6.89
+2020,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.14
+2021,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.48
+2022,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,8.4
+2023,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,7.16
+2024,Emisiones de amoníaco de la agricultura y ganadería,Cantabria,6.97
+2010,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,18.56
+2011,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,17.79
+2012,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,17.77
+2013,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,18.09
+2014,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,19.13
+2015,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,19.32
+2016,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,19.21
+2017,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,19.63
+2018,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,19.44
+2019,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,19.09
+2020,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,19.39
+2021,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,19.34
+2022,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,17.42
+2023,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,17.26
+2024,Emisiones de amoníaco por hectárea de la agricultura y ganadería,España,17.46
+2010,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,35.68
+2011,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,27.32
+2012,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,26.93
+2013,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,28.42
+2014,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,31.08
+2015,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,29.75
+2016,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,29.0
+2017,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,28.83
+2018,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,26.31
+2019,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,25.73
+2020,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,26.67
+2021,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,27.92
+2022,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,31.4
+2023,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,26.79
+2024,Emisiones de amoníaco por hectárea de la agricultura y ganadería,Cantabria,26.11
+2014,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,España,7.68
+2015,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,España,7.21
+2016,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,España,7.69
+2017,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,España,8.15
+2018,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,España,11.44
+2019,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,España,8.71
+2020,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,España,7.92
+2021,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,España,7.51
+2022,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,España,8.12
+2023,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,España,7.61
+2014,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,Cantabria,23.35
+2015,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,Cantabria,12.18
+2016,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,Cantabria,15.26
+2017,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,Cantabria,14.05
+2018,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,Cantabria,17.42
+2019,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,Cantabria,16.43
+2020,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,Cantabria,27.73
+2021,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,Cantabria,20.26
+2022,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,Cantabria,17.9
+2023,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,Cantabria,22.45
+2024,Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,Cantabria,17.9
+2016,Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,España,97.83
+2017,Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,España,97.49
+2018,Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,España,99.39
+2019,Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,España,99.28
+2020,Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,España,98.81
+2021,Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,España,97.73
+2022,Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,España,98.85
+2023,Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,España,99.03
+2016,Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,Cantabria,100.0
+2017,Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,Cantabria,100.0
+2018,Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,Cantabria,99.29
+2019,Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,Cantabria,98.88
+2020,Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,Cantabria,98.13
+2021,Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,Cantabria,99.18
+2022,Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,Cantabria,99.92
+2023,Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,Cantabria,97.91
+2022,Índice de salarios agrarios,España,100.0
+2023,Índice de salarios agrarios,España,108.8
+2024,Índice de salarios agrarios,España,115.08
+2025,Índice de salarios agrarios,España,120.53
+2022,Índice de salarios agrarios,Cantabria,100.0
+2023,Índice de salarios agrarios,Cantabria,106.71
+2024,Índice de salarios agrarios,Cantabria,112.32
+2025,Índice de salarios agrarios,Cantabria,118.29

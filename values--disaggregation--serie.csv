@@ -1,41 +1,47 @@
 Value,Disaggregation combinations using this value,Number of indicators
+Acidez media del mar,2,1
 Alumnado medio por ordenador destinado a tareas de enseñanza y aprendizaje en centros educativos no universitarios,2,1
 Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales en proporción al PIB,2,1
 Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales,2,1
-Brecha de género en el empleo a tiempo parcial de las personas entre 20 y 64 años,1,1
-Brecha de género en el empleo a tiempo parcial por subempleo de las personas entre 20 y 64 años,1,1
-Brecha de género en el empleo de las personas entre 20 y 64 años,1,1
-Brecha de género en el empleo temporal de las personas entre 20 y 64 años,1,1
+Brecha de género en el empleo a tiempo parcial de las personas entre 20 y 64 años,17,1
+Brecha de género en el empleo a tiempo parcial por subempleo de las personas entre 20 y 64 años,17,1
+Brecha de género en el empleo de las personas entre 20 y 64 años,17,1
+Brecha de género en el empleo temporal de las personas entre 20 y 64 años,17,1
+Capacidad instalada de generación de energía renovable,1,1
 "Cobertura de vacunación de recuerdo contra difteria, tétanos y tosferina en la población infantil",2,1
 Cobertura de vacunación de recuerdo contra neumococo en la población infantil,2,1
-Cobertura de vacunación de segunda dosis contra papiloma humano en las adolescentes,2,1
-"Cobertura de vacunación de segunda dosis contra sarampión, rubeola y parotiditis en la población infantil",2,1
+Cobertura de vacunación de segunda dosis contra papiloma humano  en la población adolescente,2,1
+"Cobertura de vacunación de segunda dosis contra sarampión, rubéola y parotiditis en la población infantil",2,1
 Consumo anual de alcohol registrado en litros de alcohol puro por persona de 15 y más años,2,1
 Consumo de energía eléctrica por unidad de PIB,2,1
 Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB,2,1
 Emisiones de amoníaco de la agricultura y ganadería,2,1
 Emisiones de amoníaco por hectárea de la agricultura y ganadería,2,1
-Emisiones de CO2 de las unidades residentes por unidad de PIB,2,1
-Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero,2,1
-Emisiones de CO2 respecto al año 1990,2,1
-Emisiones de CO2 respecto al año 2005,2,1
+Emisiones de CO2 por unidad de PIB,16,1
+Emisiones de CO2 por unidad de valor añadido del sector manufacturero,16,1
+Emisiones de CO2 respecto al año 1990,16,1
+Emisiones de CO2 respecto al año 2005,16,1
 Emisiones de gases de efecto invernadero respecto al año 1990,2,1
 Emisiones de gases de efecto invernadero respecto al año 2005,2,1
-Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita,2,1
-Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB,2,1
-Empleo del sector manufacturero en proporción al empleo total (horas trabajadas),2,1
-Empleo del sector manufacturero en proporción al empleo total (personas empleadas),2,1
+Emisiones de PM10 por unidad de valor añadido del sector manufacturero,16,1
+"Emisiones de PM2,5 por unidad de valor añadido del sector manufacturero",16,1
+Emisiones totales de gases de efecto invernadero per cápita,2,1
+Emisiones totales de gases de efecto invernadero por unidad de PIB,2,1
+Empleo del sector manufacturero en proporción al empleo total (horas trabajadas),15,1
+Empleo del sector manufacturero en proporción al empleo total (personas empleadas),15,1
+Existencia de instituciones nacionales de derechos humanos independientes de conformidad con los Principios de París,1,1
 "Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género: empleo y subsidios económicos",2,1
 "Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género: marco legal global y vida pública",2,1
 "Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género: matrimonio y familia",2,1
 "Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género: violencia contra la mujer",2,1
-Gasto de las administraciones públicas autonómicas en fomento del empleo,2,1
+Existencia de una estrategia organizada y en marcha para el empleo juvenil,12,1
+Gasto de las administraciones públicas autonómicas en fomento del empleo,16,1
 Gasto liquidado en proporción al gasto inicial de los presupuestos de las administraciones públicas autonómicas,2,1
 Gasto liquidado en proporción al gasto inicial de los presupuestos de las administraciones públicas locales,2,1
 "Gasto per cápita de las administraciones públicas autonómicas en la preservación, protección y conservación del patrimonio cultural",2,1
 "Gasto per cápita de las administraciones públicas autonómicas y locales en la preservación, protección y conservación del patrimonio cultural",2,1
 "Gasto per cápita de las administraciones públicas locales en la preservación, protección y conservación del patrimonio cultural",2,1
-Gastos en investigación y desarrollo en proporción al PIB,2,1
+Gastos en investigación y desarrollo en proporción al PIB,16,1
 Grado en que el marco jurídico garantiza la igualdad de derechos de la mujer a la propiedad o el control de tierras,2,1
 Incidencia de la hepatitis B en las mujeres,2,1
 Incidencia de la hepatitis B en los hombres,2,1
@@ -49,15 +55,18 @@ Incidencia de la tuberculosis,2,1
 Incidencia de los nuevos diagnósticos de VIH en las mujeres,2,1
 Incidencia de los nuevos diagnósticos de VIH en los hombres,2,1
 Incidencia de los nuevos diagnósticos de VIH,2,1
-Ingreso medio por hora de trabajo de las mujeres,2,1
-Ingreso medio por hora de trabajo de las personas con discapacidad,2,1
-Ingreso medio por hora de trabajo de las personas sin discapacidad,2,1
-Ingreso medio por hora de trabajo de los hombres,2,1
-Ingreso medio por hora de trabajo,2,1
+"Indemnizaciones por daños personales, pérdidas pecuniarias y daños de bienes pagadas o provisionadas en proporción al PIB",2,1
+Ingreso medio por hora de trabajo de las mujeres,16,1
+Ingreso medio por hora de trabajo de las personas con discapacidad,16,1
+Ingreso medio por hora de trabajo de las personas sin discapacidad,16,1
+Ingreso medio por hora de trabajo de los hombres,16,1
+Ingreso medio por hora de trabajo,16,1
 Ingresos fiscales de las administraciones públicas autonómicas en proporción al PIB,2,1
 Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB,2,1
 Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo,2,1
 La legislación sobre estadísticas cumple los Principios Fundamentales de las Estadísticas Oficiales,2,1
+Mercancías transportadas por vía aérea,1,1
+Muertes relacionadas con conflictos por cada 100.000 habitantes,1,1
 Nivel medio de PM10 en las ciudades ponderado según la población,2,1
 "Nivel medio de PM2,5 en las ciudades ponderado según la población",2,1
 Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,2,1
@@ -66,6 +75,7 @@ Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 
 Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,2,1
 Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,2,1
 Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,2,1
+Número de cajeros automáticos por cada 100.000 habitantes de 15 y más años,4,1
 Número de líneas de banda ancha fija con otra tecnología de acceso por cada 100 habitantes,2,1
 Número de líneas de banda ancha fija con tecnología de acceso DSL por cada 100 habitantes,2,1
 Número de líneas de banda ancha fija con tecnología de acceso FTTH por cada 100 habitantes,2,1
@@ -75,23 +85,27 @@ Número de personas colegiadas en enfermería por cada 10.000 habitantes,2,1
 Número de personas colegiadas en farmacia por cada 10.000 habitantes,2,1
 Número de personas colegiadas en medicina por cada 10.000 habitantes,2,1
 Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes,2,1
-Número de personas investigadoras (en equivalente a tiempo completo) por cada millón de habitantes,2,1
+Número de personas investigadoras (en equivalente a tiempo completo) por cada millón de habitantes,16,1
 Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes,6,3
-Número de personas refugiadas por cada 100.000 habitantes,2,1
-Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años,2,1
+Número de personas ocupadas en el sector del turismo,16,1
+Número de personas que han sido víctimas de acoso no sexual o sexual en los últimos 12 meses por cada 100.000 habitantes,2,1
+Número de personas refugiadas por cada 100.000 habitantes,9,1
+Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años,17,1
 Número de víctimas detectadas de tráfico de personas para explotación laboral por cada 100.000 habitantes,2,1
 Número de víctimas detectadas de tráfico de personas para explotación sexual por cada 100.000 habitantes,2,1
 Número de víctimas detectadas de tráfico de personas para la obtención de órganos por cada 100.000 habitantes,2,1
 "Número de víctimas detectadas de tráfico de personas para otros fines (matrimonios forzados, criminalidad forzada o mendicidad) por cada 100.000 habitantes",2,1
 Número de víctimas detectadas de tráfico de personas por cada 100.000 habitantes,2,1
-Pernoctaciones de turistas no residentes por habitante,2,1
-Pernoctaciones de turistas por habitante,2,1
+Pasajeros transportados por vía aérea,1,1
+Pernoctaciones de turistas no residentes por habitante,17,1
+Pernoctaciones de turistas por habitante,17,1
 Proporción de alcaldías ocupadas por mujeres en los gobiernos locales,2,1
 Proporción de aulas habituales de clase con conexión a Internet en centros educativos no universitarios,2,1
 Proporción de centros educativos no universitarios con acceso a electricidad,2,1
 Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,2,1
 Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,2,1
 Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable,2,1
+Proporción de centros educativos no universitarios con conexión a Internet,1,1
 Proporción de ciudades que cuentan con una estructura de participación directa de la sociedad civil en la planificación y la gestión urbana que funcione con regularidad y democráticamente,2,1
 Proporción de concejalías ocupadas por mujeres en los gobiernos locales,2,1
 Proporción de consejerías ocupadas por mujeres en los gobiernos autonómicos,2,1
@@ -99,8 +113,9 @@ Proporción de dependencias administrativas locales que han establecido polític
 Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión y el saneamiento de aguas de consumo,2,1
 Proporción de energías renovables en la producción de energía eléctrica,2,1
 Proporción de escaños ocupados por mujeres en los parlamentos autonómicos,2,1
-"Proporción de hogares cubiertos con redes móviles 3,5G",2,1
-Proporción de hogares cubiertos con redes móviles 4G,2,1
+"Proporción de hogares cubiertos con redes móviles 3,5G",10,1
+Proporción de hogares cubiertos con redes móviles 4G,13,1
+Proporción de hogares cubiertos con redes móviles 5G,6,1
 Proporción de hombres de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura,2,1
 Proporción de hombres de 15 años que han alcanzado al menos el nivel 2 de competencia en matemáticas,2,1
 Proporción de hombres entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de comprensión lectora,2,1
@@ -108,9 +123,11 @@ Proporción de hombres entre 16 y 65 años que han alcanzado al menos el nivel 2
 Proporción de hombres entre 16 y 74 años que utilizan el teléfono móvil,2,1
 Proporción de hombres entre 18 y 20 años que han completado al menos la primera etapa de enseñanza secundaria,2,1
 Proporción de hombres entre 20 y 22 años que han completado al menos la segunda etapa de enseñanza secundaria,2,1
-Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,2,1
+Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,17,1
 "Proporción de hombres titulares de explotaciones agrícolas, respecto al total de hombres trabajadores en la agricultura",2,1
-"Proporción de jóvenes entre 15 y 24 años que no cursan estudios, no están empleados ni reciben formación",2,1
+"Proporción de jóvenes entre 15 y 24 años que no cursan estudios, no están empleados ni reciben formación",17,1
+Proporción de la carga contaminante correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes equivalentes conectadas a un sistema de colectores de aguas residuales,2,1
+Proporción de la carga contaminante correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes equivalentes que depuran adecuadamente sus aguas residuales,2,1
 Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de administración de justicia,2,1
 Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de asistencia sanitaria,2,1
 Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de ayuda a personas dependientes,2,1
@@ -123,8 +140,25 @@ Proporción de la población que se siente satisfecha con el funcionamiento de l
 Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos,2,1
 Proporción de la población que tiene fácil acceso al transporte público,1,1
 Proporción de la población residente en municipios que disponen de plan general o normas subsidiarias de planeamiento urbanístico,2,1
+Proporción de la superficie agrícola donde se ha alcanzado un nivel de productividad deseable o aceptable,2,1
+Proporción de la superficie agrícola donde se ha alcanzado un nivel de rentabilidad deseable o aceptable,2,1
 Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible,2,1
+Proporción de la superficie construida que se dedica a espacios públicos abiertos y calles en las ciudades,2,1
+Proporción de la superficie de asentamientos en zonas de montaña incluida en áreas protegidas,2,1
+Proporción de la superficie de asentamientos incluida en áreas protegidas,2,1
+Proporción de la superficie de bosques en zonas de montaña incluida en áreas protegidas,2,1
+Proporción de la superficie de bosques incluida en áreas protegidas,2,1
+Proporción de la superficie de humedales en zonas de montaña incluida en áreas protegidas,2,1
+Proporción de la superficie de humedales incluida en áreas protegidas,2,1
+Proporción de la superficie de montaña incluida en áreas protegidas,2,1
+Proporción de la superficie de otras tierras en zonas de montaña incluida en áreas protegidas,2,1
+Proporción de la superficie de otras tierras incluida en áreas protegidas,2,1
+Proporción de la superficie de pastizales en zonas de montaña incluida en áreas protegidas,2,1
+Proporción de la superficie de pastizales incluida en áreas protegidas,2,1
+Proporción de la superficie de tierras de cultivo en zonas de montaña incluida en áreas protegidas,2,1
+Proporción de la superficie de tierras de cultivo incluida en áreas protegidas,2,1
 Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes,2,1
+Proporción de la superficie terrestre incluida en áreas protegidas,2,1
 Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos,2,1
 Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuestos,2,1
 Proporción de menores de 5 años cuyo nacimiento se ha registrado ante una autoridad civil,2,1
@@ -141,20 +175,20 @@ Proporción de mujeres entre 16 y 74 años que utilizan el teléfono móvil,2,1
 Proporción de mujeres entre 18 y 20 años que han completado al menos la primera etapa de enseñanza secundaria,2,1
 "Proporción de mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que cubren sus necesidades de planificación familiar con métodos modernos",2,1
 Proporción de mujeres entre 20 y 22 años que han completado al menos la segunda etapa de enseñanza secundaria,2,1
-Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,2,1
+Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,17,1
 "Proporción de mujeres titulares de explotaciones agrícolas en arrendamiento, respecto al total de titulares de explotaciones agrícolas en arrendamiento",2,1
 "Proporción de mujeres titulares de explotaciones agrícolas en propiedad, respecto al total de titulares de explotaciones agrícolas en propiedad",2,1
 "Proporción de mujeres titulares de explotaciones agrícolas, respecto al total de mujeres trabajadoras en la agricultura",2,1
 "Proporción de mujeres titulares de explotaciones agrícolas, respecto al total de titulares de explotaciones agrícolas",2,1
 Proporción de partos atendidos por personal sanitario especializado,2,1
-Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,2,1
-Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,2,1
+Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,17,1
+Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,17,1
 Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura,2,1
 Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en matemáticas,2,1
 Proporción de personas de 15 y más años que fuman a diario,2,1
-Proporción de personas de 16 años y más que se sienten seguras al caminar solas en su zona de residencia,2,1
 Proporción de personas de 16 y más años con estado de salud percibido bueno o muy bueno,2,1
 Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica,2,1
+Proporción de personas de 16 y más años que se sienten seguras al caminar solas en su zona de residencia,2,1
 Proporción de personas detenidas que no han sido condenadas respecto al total de personas reclusas,2,1
 "Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral autonómico de pobreza",2,1
 "Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza",2,1
@@ -172,20 +206,24 @@ Proporción de personas entre 16 y 74 años que han utilizado alguna habilidad i
 Proporción de personas entre 16 y 74 años que han utilizado Internet en los últimos tres meses,2,1
 Proporción de personas entre 16 y 74 años que utilizan el teléfono móvil,2,1
 Proporción de personas entre 18 y 20 años que han completado al menos la primera etapa de enseñanza secundaria,2,1
+Proporción de personas entre 18 y 24 años que han abandonado tempranamente la educación,1,1
 Proporción de personas entre 18 y 64 años que han realizado actividades educativas en los últimos 12 meses,2,1
-Proporción de personas entre 18 y 79 años que tienen una cuenta corriente,2,1
+Proporción de personas entre 18 y 79 años que tienen una cuenta corriente,3,1
 Proporción de personas entre 20 y 22 años que han completado al menos la segunda etapa de enseñanza secundaria,2,1
+Proporción de personas entre 25 y 34 años con estudios superiores,1,1
 Proporción de personas entre 25 y 64 años que han realizado estudios o formación en las últimas cuatro semanas,2,1
 Proporción de personas entre 25 y 74 años que han utilizado alguna habilidad informática,2,1
-Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,2,1
-Proporción de personas ocupadas en el sector manufacturero,2,1
+Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,17,1
+Proporción de personas ocupadas en el sector del turismo sobre el total de personas ocupadas,16,1
+Proporción de personas ocupadas en el sector manufacturero,17,1
 Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior,2,1
 Proporción de personas que reciben suministro de agua con cobertura del Sistema Nacional de Aguas de Consumo,2,1
 Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda,2,1
 "Proporción de personas que viven en hogares con grandes gastos sanitarios, superiores al 10% del gasto total del hogar",2,1
+"Proporción de personas que viven en hogares con grandes gastos sanitarios, superiores al 25% del gasto total del hogar",1,1
 Proporción de personas que viven en una zona con problemas de delincuencia o vandalismo,2,1
-"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",2,1
-"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",2,1
+"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica",17,1
+"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional",17,1
 Proporción de personas viviendo en hogares con baja intensidad de trabajo,2,1
 Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados,2,1
 Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados,4,2
@@ -194,18 +232,18 @@ Proporción de residuos municipales vertidos en relación al total de residuos m
 Proporción de viviendas principales con acceso a agua corriente,2,1
 Proporción de viviendas principales que disponen de baño o ducha,2,1
 Proporción de viviendas principales que disponen de cuarto de aseo con inodoro,2,1
-Proporción del gasto de las administraciones públicas autonómicas en fomento del empleo,2,1
+Proporción del gasto de las administraciones públicas autonómicas en fomento del empleo,16,1
 Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación,2,1
 Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud,2,1
-"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",2,1
-Proporción del gasto en viajes culturales sobre el gasto en viajes,2,1
-Proporción del PIB generada por el trabajo asalariado,2,1
+"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",11,1
+Proporción del gasto en viajes culturales sobre el gasto en viajes,11,1
+Proporción del PIB generada por el trabajo asalariado,16,1
 Proporción del profesorado de educación preescolar que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo,2,1
 Proporción del profesorado de educación primaria que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo,2,1
 Proporción del profesorado de educación secundaria inferior que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo,2,1
 Proporción del profesorado de educación secundaria superior que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo,2,1
-Proporción del valor añadido total del sector manufacturero correspondiente a las actividades de media-alta y alta tecnología,2,1
-Proporción del valor añadido total del sector manufacturero correspondiente a las pequeñas empresas,2,1
+Proporción del valor añadido total del sector manufacturero correspondiente a las actividades de media-alta y alta tecnología,14,1
+Proporción del valor añadido total del sector manufacturero correspondiente a las pequeñas empresas,16,1
 Ratio de la proporción de mujeres en el sector público autonómico respecto a la proporción de mujeres en la población entre 16 y 64 años,2,1
 Ratio de la proporción de mujeres en el sector público estatal respecto a la proporción de mujeres en la población entre 16 y 64 años,2,1
 Ratio de la proporción de mujeres en el sector público local respecto a la proporción de mujeres en la población entre 16 y 64 años,2,1
@@ -218,30 +256,31 @@ Ratio de la proporción de mujeres en las instituciones sanitarias autonómicas 
 Ratio de la proporción de mujeres en las universidades respecto a la proporción de mujeres en la población entre 16 y 64 años,2,1
 Ratio de la proporción de mujeres en los ayuntamientos respecto a la proporción de mujeres en la población entre 16 y 64 años,2,1
 Ratio de la proporción de mujeres en los centros educativos no universitarios autonómicos respecto a la proporción de mujeres en la población entre 16 y 64 años,2,1
-Residuos urbanos recogidos per cápita,2,1
+Residuos municipales recogidos per cápita,2,1
 Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB,2,1
 Se dispone de legislación pertinente y se destinan recursos para la prevención o el control de las especies exóticas invasoras,2,1
-Se dispone de un plan estadístico autonómico plenamente financiado y en fase de aplicación,2,1
+Se dispone de un plan estadístico plenamente financiado y en fase de aplicación,2,1
 "Se elaboran, adoptan o aplican instrumentos de política destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles",2,1
 Se ha realizado al menos un censo de población y vivienda en los últimos diez años,2,1
 Se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones,2,1
 Superficie de bosque en proporción a la superficie total,2,1
 Superficie forestal con instrumentos de gestión sostenible vigentes,2,1
+Tasa de cobertura de las prestaciones por desempleo,2,1
 Tasa de crecimiento anual del PIB real per cápita,2,1
-Tasa de crecimiento anual del PIB real por hora trabajada,2,1
+Tasa de crecimiento anual del PIB real por hora trabajada,7,1
 Tasa de crecimiento anual del PIB real por persona empleada,2,1
 Tasa de crecimiento per cápita de los gastos de los hogares de la población total,2,1
-Tasa de crecimiento per cápita de los gastos de los hogares del 40% más pobre de la población,2,1
-Tasa de crecimiento per cápita de los ingresos de los hogares de la población total,2,1
+Tasa de crecimiento per cápita de los gastos de los hogares del 40% más pobre de la población,5,1
+Tasa de crecimiento per cápita de los ingresos de los hogares de la población total,13,1
 Tasa de crecimiento per cápita de los ingresos de los hogares del 40% más pobre de la población,2,1
-Tasa de desempleo de larga duración de las personas entre 16 y 74 años,1,1
-Tasa de desempleo de las mujeres,2,1
-Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,2,1
-Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,2,1
-Tasa de desempleo de las personas entre 16 y 64 años,2,1
-Tasa de desempleo de los hombres,2,1
-Tasa de desempleo,4,2
-Tasa de empleo de las personas entre 20 y 64 años,1,1
+Tasa de desempleo de larga duración de las personas entre 16 y 74 años,17,1
+Tasa de desempleo de las mujeres,17,1
+Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,12,1
+Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,12,1
+Tasa de desempleo de las personas entre 16 y 64 años,12,1
+Tasa de desempleo de los hombres,17,1
+Tasa de desempleo,17,1
+Tasa de empleo de las personas entre 20 y 64 años,17,1
 Tasa de fecundidad de las adolescentes entre 10 y 14 años por cada 1.000 mujeres de ese grupo de edad,2,1
 Tasa de fecundidad de las adolescentes entre 15 y 19 años por cada 1.000 mujeres de ese grupo de edad,2,1
 Tasa de mortalidad atribuida a intoxicaciones involuntarias,2,1
@@ -249,7 +288,7 @@ Tasa de mortalidad atribuida a la diabetes,2,1
 Tasa de mortalidad atribuida a las enfermedades cardiovasculares,2,1
 Tasa de mortalidad atribuida a las enfermedades respiratorias crónicas,2,1
 Tasa de mortalidad atribuida al cáncer,2,1
-Tasa de mortalidad de menores de 5 años,2,1
+Tasa de mortalidad de los menores de 5 años,2,1
 Tasa de mortalidad materna,2,1
 Tasa de mortalidad neonatal,2,1
 Tasa de mortalidad por lesiones debidas a accidentes de tráfico,2,1
@@ -262,11 +301,13 @@ Tasa neta de escolarización de los niños de 5 años,2,1
 Tiempo dedicado al hogar y familia en un día promedio,2,1
 Tiempo dedicado por las mujeres al hogar y familia en un día promedio,2,1
 Tiempo dedicado por los hombres al hogar y familia en un día promedio,2,1
-Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB,2,1
-Valor añadido del sector manufacturero en proporción al PIB,2,1
-Valor añadido del sector manufacturero per cápita,2,1
-Volumen de remesas enviadas al extranjero en proporción al PIB,4,2
+Total de ingresos de las administraciones públicas autonómicas y locales en proporción al PIB,2,1
+Valor añadido de la agricultura en proporción al PIB,1,1
+Valor añadido del sector manufacturero en proporción al PIB,15,1
+Valor añadido del sector manufacturero per cápita,9,1
+Volumen de remesas enviadas al extranjero en proporción al PIB,2,1
 Volumen de remesas enviadas al extranjero,2,1
+Índice de cobertura verde de las montañas,2,1
 Índice de paridad entre mujeres y hombres de la población entre 15 y 64 años que ha realizado estudios o formación en las últimas cuatro semanas,2,1
 Índice de paridad entre mujeres y hombres de la población entre 18 y 64 años que ha realizado actividades educativas en los últimos 12 meses,2,1
 Índice de paridad entre personas con y sin limitaciones por problemas de salud de la población entre 18 y 64 años que ha realizado actividades educativas en los últimos 12 meses,2,1
@@ -274,3 +315,4 @@ Volumen de remesas enviadas al extranjero,2,1
 Índice de paridad entre personas residentes en municipios de menos de 10.000 habitantes y residentes en municipios de más de 10.000 habitantes de la población entre 15 y 64 años que ha realizado estudios o formación en las últimas cuatro semanas,2,1
 Índice de precios de los alimentos,2,1
 Índice de precios del pan y los cereales,2,1
+Índice de salarios agrarios,2,1

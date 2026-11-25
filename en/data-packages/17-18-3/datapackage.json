@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Se dispone de un plan estadístico autonómico plenamente financiado y en fase de aplicación",
+                "Se dispone de un plan estadístico plenamente financiado y en fase de aplicación",
                 ""
               ]
             },

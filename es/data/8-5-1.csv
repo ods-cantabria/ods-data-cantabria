@@ -12,19 +12,23 @@ Year,Serie,Región,Value
 2020,Ingreso medio por hora de trabajo,España,16.15
 2021,Ingreso medio por hora de trabajo,España,16.54
 2022,Ingreso medio por hora de trabajo,España,17.19
-2010,Ingreso medio por hora de trabajo,Cantabria,13.49
-2011,Ingreso medio por hora de trabajo,Cantabria,13.23
-2012,Ingreso medio por hora de trabajo,Cantabria,13.0
-2013,Ingreso medio por hora de trabajo,Cantabria,12.91
-2014,Ingreso medio por hora de trabajo,Cantabria,13.75
-2015,Ingreso medio por hora de trabajo,Cantabria,14.05
-2016,Ingreso medio por hora de trabajo,Cantabria,13.98
-2017,Ingreso medio por hora de trabajo,Cantabria,14.25
-2018,Ingreso medio por hora de trabajo,Cantabria,14.42
-2019,Ingreso medio por hora de trabajo,Cantabria,15.02
-2020,Ingreso medio por hora de trabajo,Cantabria,15.04
-2021,Ingreso medio por hora de trabajo,Cantabria,15.69
-2022,Ingreso medio por hora de trabajo,Cantabria,16.17
+2023,Ingreso medio por hora de trabajo,España,17.82
+2024,Ingreso medio por hora de trabajo,España,18.77
+2010,Ingreso medio por hora de trabajo,ES19,13.49
+2011,Ingreso medio por hora de trabajo,ES20,13.23
+2012,Ingreso medio por hora de trabajo,ES21,13.0
+2013,Ingreso medio por hora de trabajo,ES22,12.91
+2014,Ingreso medio por hora de trabajo,ES23,13.75
+2015,Ingreso medio por hora de trabajo,ES24,14.05
+2016,Ingreso medio por hora de trabajo,ES25,13.98
+2017,Ingreso medio por hora de trabajo,ES26,14.25
+2018,Ingreso medio por hora de trabajo,ES27,14.42
+2019,Ingreso medio por hora de trabajo,ES28,15.02
+2020,Ingreso medio por hora de trabajo,ES29,15.04
+2021,Ingreso medio por hora de trabajo,ES30,15.69
+2022,Ingreso medio por hora de trabajo,ES31,16.17
+2023,Ingreso medio por hora de trabajo,ES32,16.78
+2024,Ingreso medio por hora de trabajo,ES33,17.33
 2010,Ingreso medio por hora de trabajo de las personas con discapacidad,España,13.1
 2011,Ingreso medio por hora de trabajo de las personas con discapacidad,España,13.2
 2012,Ingreso medio por hora de trabajo de las personas con discapacidad,España,12.8
@@ -38,19 +42,22 @@ Year,Serie,Región,Value
 2020,Ingreso medio por hora de trabajo de las personas con discapacidad,España,13.9
 2021,Ingreso medio por hora de trabajo de las personas con discapacidad,España,14.3
 2022,Ingreso medio por hora de trabajo de las personas con discapacidad,España,14.6
-2010,Ingreso medio por hora de trabajo de las personas con discapacidad,Cantabria,12.2
-2011,Ingreso medio por hora de trabajo de las personas con discapacidad,Cantabria,12.0
-2012,Ingreso medio por hora de trabajo de las personas con discapacidad,Cantabria,11.7
-2013,Ingreso medio por hora de trabajo de las personas con discapacidad,Cantabria,11.6
-2014,Ingreso medio por hora de trabajo de las personas con discapacidad,Cantabria,10.9
-2015,Ingreso medio por hora de trabajo de las personas con discapacidad,Cantabria,12.4
-2016,Ingreso medio por hora de trabajo de las personas con discapacidad,Cantabria,13.2
-2017,Ingreso medio por hora de trabajo de las personas con discapacidad,Cantabria,13.4
-2018,Ingreso medio por hora de trabajo de las personas con discapacidad,Cantabria,12.7
-2019,Ingreso medio por hora de trabajo de las personas con discapacidad,Cantabria,13.1
-2020,Ingreso medio por hora de trabajo de las personas con discapacidad,Cantabria,13.2
-2021,Ingreso medio por hora de trabajo de las personas con discapacidad,Cantabria,13.2
-2022,Ingreso medio por hora de trabajo de las personas con discapacidad,Cantabria,14.5
+2023,Ingreso medio por hora de trabajo de las personas con discapacidad,España,15.3
+2010,Ingreso medio por hora de trabajo de las personas con discapacidad,ES34,12.2
+2011,Ingreso medio por hora de trabajo de las personas con discapacidad,ES35,12.0
+2012,Ingreso medio por hora de trabajo de las personas con discapacidad,ES36,11.7
+2013,Ingreso medio por hora de trabajo de las personas con discapacidad,ES37,11.6
+2014,Ingreso medio por hora de trabajo de las personas con discapacidad,ES38,10.9
+2015,Ingreso medio por hora de trabajo de las personas con discapacidad,ES39,12.4
+2016,Ingreso medio por hora de trabajo de las personas con discapacidad,ES40,13.2
+2017,Ingreso medio por hora de trabajo de las personas con discapacidad,ES41,13.4
+2018,Ingreso medio por hora de trabajo de las personas con discapacidad,ES42,12.7
+2019,Ingreso medio por hora de trabajo de las personas con discapacidad,ES43,13.1
+2020,Ingreso medio por hora de trabajo de las personas con discapacidad,ES44,13.2
+2021,Ingreso medio por hora de trabajo de las personas con discapacidad,ES45,13.2
+2022,Ingreso medio por hora de trabajo de las personas con discapacidad,ES46,14.5
+2023,Ingreso medio por hora de trabajo de las personas con discapacidad,ES47,16.7
+2024,Ingreso medio por hora de trabajo de las personas con discapacidad,ES48,15.8
 2010,Ingreso medio por hora de trabajo de las mujeres,España,13.24
 2011,Ingreso medio por hora de trabajo de las mujeres,España,13.12
 2012,Ingreso medio por hora de trabajo de las mujeres,España,13.1
@@ -63,18 +70,24 @@ Year,Serie,Región,Value
 2019,Ingreso medio por hora de trabajo de las mujeres,España,14.92
 2020,Ingreso medio por hora de trabajo de las mujeres,España,15.22
 2021,Ingreso medio por hora de trabajo de las mujeres,España,15.61
-2010,Ingreso medio por hora de trabajo de las mujeres,Cantabria,12.1
-2011,Ingreso medio por hora de trabajo de las mujeres,Cantabria,11.61
-2012,Ingreso medio por hora de trabajo de las mujeres,Cantabria,11.43
-2013,Ingreso medio por hora de trabajo de las mujeres,Cantabria,11.19
-2014,Ingreso medio por hora de trabajo de las mujeres,Cantabria,12.24
-2015,Ingreso medio por hora de trabajo de las mujeres,Cantabria,12.26
-2016,Ingreso medio por hora de trabajo de las mujeres,Cantabria,12.21
-2017,Ingreso medio por hora de trabajo de las mujeres,Cantabria,12.9
-2018,Ingreso medio por hora de trabajo de las mujeres,Cantabria,13.17
-2019,Ingreso medio por hora de trabajo de las mujeres,Cantabria,14.05
-2020,Ingreso medio por hora de trabajo de las mujeres,Cantabria,14.34
-2021,Ingreso medio por hora de trabajo de las mujeres,Cantabria,14.68
+2022,Ingreso medio por hora de trabajo de las mujeres,España,16.3
+2023,Ingreso medio por hora de trabajo de las mujeres,España,17.08
+2024,Ingreso medio por hora de trabajo de las mujeres,España,17.94
+2010,Ingreso medio por hora de trabajo de las mujeres,ES49,12.1
+2011,Ingreso medio por hora de trabajo de las mujeres,ES50,11.61
+2012,Ingreso medio por hora de trabajo de las mujeres,ES51,11.43
+2013,Ingreso medio por hora de trabajo de las mujeres,ES52,11.19
+2014,Ingreso medio por hora de trabajo de las mujeres,ES53,12.24
+2015,Ingreso medio por hora de trabajo de las mujeres,ES54,12.26
+2016,Ingreso medio por hora de trabajo de las mujeres,ES55,12.21
+2017,Ingreso medio por hora de trabajo de las mujeres,ES56,12.9
+2018,Ingreso medio por hora de trabajo de las mujeres,ES57,13.17
+2019,Ingreso medio por hora de trabajo de las mujeres,ES58,14.05
+2020,Ingreso medio por hora de trabajo de las mujeres,ES59,14.34
+2021,Ingreso medio por hora de trabajo de las mujeres,ES60,14.68
+2022,Ingreso medio por hora de trabajo de las mujeres,ES61,15.17
+2023,Ingreso medio por hora de trabajo de las mujeres,ES62,15.68
+2024,Ingreso medio por hora de trabajo de las mujeres,ES63,16.19
 2010,Ingreso medio por hora de trabajo de los hombres,España,15.56
 2011,Ingreso medio por hora de trabajo de los hombres,España,15.68
 2012,Ingreso medio por hora de trabajo de los hombres,España,15.83
@@ -88,21 +101,23 @@ Year,Serie,Región,Value
 2020,Ingreso medio por hora de trabajo de los hombres,España,16.92
 2021,Ingreso medio por hora de trabajo de los hombres,España,17.3
 2022,Ingreso medio por hora de trabajo de los hombres,España,17.96
-2022,Ingreso medio por hora de trabajo de los hombres,España,17.96
-2010,Ingreso medio por hora de trabajo de los hombres,Cantabria,14.55
-2011,Ingreso medio por hora de trabajo de los hombres,Cantabria,14.52
-2012,Ingreso medio por hora de trabajo de los hombres,Cantabria,14.29
-2013,Ingreso medio por hora de trabajo de los hombres,Cantabria,14.33
-2014,Ingreso medio por hora de trabajo de los hombres,Cantabria,15.05
-2015,Ingreso medio por hora de trabajo de los hombres,Cantabria,15.44
-2016,Ingreso medio por hora de trabajo de los hombres,Cantabria,15.3
-2017,Ingreso medio por hora de trabajo de los hombres,Cantabria,15.27
-2018,Ingreso medio por hora de trabajo de los hombres,Cantabria,15.51
-2019,Ingreso medio por hora de trabajo de los hombres,Cantabria,15.79
-2020,Ingreso medio por hora de trabajo de los hombres,Cantabria,15.62
-2021,Ingreso medio por hora de trabajo de los hombres,Cantabria,16.54
-2022,Ingreso medio por hora de trabajo de los hombres,Cantabria,15.17
-2022,Ingreso medio por hora de trabajo de los hombres,Cantabria,17.01
+2023,Ingreso medio por hora de trabajo de los hombres,España,18.47
+2024,Ingreso medio por hora de trabajo de los hombres,España,19.49
+2010,Ingreso medio por hora de trabajo de los hombres,ES64,14.55
+2011,Ingreso medio por hora de trabajo de los hombres,ES65,14.52
+2012,Ingreso medio por hora de trabajo de los hombres,ES66,14.29
+2013,Ingreso medio por hora de trabajo de los hombres,ES67,14.33
+2014,Ingreso medio por hora de trabajo de los hombres,ES68,15.05
+2015,Ingreso medio por hora de trabajo de los hombres,ES69,15.44
+2016,Ingreso medio por hora de trabajo de los hombres,ES70,15.3
+2017,Ingreso medio por hora de trabajo de los hombres,ES71,15.27
+2018,Ingreso medio por hora de trabajo de los hombres,ES72,15.51
+2019,Ingreso medio por hora de trabajo de los hombres,ES73,15.79
+2020,Ingreso medio por hora de trabajo de los hombres,ES74,15.62
+2021,Ingreso medio por hora de trabajo de los hombres,ES75,16.54
+2022,Ingreso medio por hora de trabajo de los hombres,ES76,17.01
+2023,Ingreso medio por hora de trabajo de los hombres,ES77,17.69
+2024,Ingreso medio por hora de trabajo de los hombres,ES78,18.26
 2010,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,14.6
 2011,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,14.6
 2012,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,14.6
@@ -116,16 +131,19 @@ Year,Serie,Región,Value
 2020,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,16.2
 2021,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,16.6
 2022,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,17.3
-2010,Ingreso medio por hora de trabajo de las personas sin discapacidad,Cantabria,13.5
-2011,Ingreso medio por hora de trabajo de las personas sin discapacidad,Cantabria,13.3
-2012,Ingreso medio por hora de trabajo de las personas sin discapacidad,Cantabria,13.1
-2013,Ingreso medio por hora de trabajo de las personas sin discapacidad,Cantabria,13.0
-2014,Ingreso medio por hora de trabajo de las personas sin discapacidad,Cantabria,13.8
-2015,Ingreso medio por hora de trabajo de las personas sin discapacidad,Cantabria,14.1
-2016,Ingreso medio por hora de trabajo de las personas sin discapacidad,Cantabria,14.0
-2017,Ingreso medio por hora de trabajo de las personas sin discapacidad,Cantabria,14.3
-2018,Ingreso medio por hora de trabajo de las personas sin discapacidad,Cantabria,14.5
-2019,Ingreso medio por hora de trabajo de las personas sin discapacidad,Cantabria,15.1
-2020,Ingreso medio por hora de trabajo de las personas sin discapacidad,Cantabria,15.1
-2021,Ingreso medio por hora de trabajo de las personas sin discapacidad,Cantabria,15.8
-2022,Ingreso medio por hora de trabajo de las personas sin discapacidad,Cantabria,16.3
+2023,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,17.9
+2010,Ingreso medio por hora de trabajo de las personas sin discapacidad,ES79,13.5
+2011,Ingreso medio por hora de trabajo de las personas sin discapacidad,ES80,13.3
+2012,Ingreso medio por hora de trabajo de las personas sin discapacidad,ES81,13.1
+2013,Ingreso medio por hora de trabajo de las personas sin discapacidad,ES82,13.0
+2014,Ingreso medio por hora de trabajo de las personas sin discapacidad,ES83,13.8
+2015,Ingreso medio por hora de trabajo de las personas sin discapacidad,ES84,14.1
+2016,Ingreso medio por hora de trabajo de las personas sin discapacidad,ES85,14.0
+2017,Ingreso medio por hora de trabajo de las personas sin discapacidad,ES86,14.3
+2018,Ingreso medio por hora de trabajo de las personas sin discapacidad,ES87,14.5
+2019,Ingreso medio por hora de trabajo de las personas sin discapacidad,ES88,15.1
+2020,Ingreso medio por hora de trabajo de las personas sin discapacidad,ES89,15.1
+2021,Ingreso medio por hora de trabajo de las personas sin discapacidad,ES90,15.8
+2022,Ingreso medio por hora de trabajo de las personas sin discapacidad,ES91,16.3
+2023,Ingreso medio por hora de trabajo de las personas sin discapacidad,ES92,16.8
+2024,Ingreso medio por hora de trabajo de las personas sin discapacidad,ES93,16.2

@@ -30,7 +30,8 @@
             "constraints": {
               "enum": [
                 "España",
-                "Cantabria",
+                "ES484",
+                "ES489",
                 ""
               ]
             }

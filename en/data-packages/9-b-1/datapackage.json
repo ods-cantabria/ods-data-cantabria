@@ -32,7 +32,19 @@
             "constraints": {
               "enum": [
                 "España",
-                "Cantabria",
+                "ES214",
+                "ES215",
+                "ES216",
+                "ES217",
+                "ES218",
+                "ES219",
+                "ES220",
+                "ES221",
+                "ES222",
+                "ES223",
+                "ES224",
+                "ES225",
+                "ES226",
                 ""
               ]
             },

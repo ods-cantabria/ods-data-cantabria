@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tasa de mortalidad de menores de 5 años",
+                "Tasa de mortalidad de los menores de 5 años",
                 ""
               ]
             },

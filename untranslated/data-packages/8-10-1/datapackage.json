@@ -20,6 +20,7 @@
             "constraints": {
               "enum": [
                 "Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años",
+                "Número de cajeros automáticos por cada 100.000 habitantes de 15 y más años",
                 ""
               ]
             }
@@ -30,7 +31,26 @@
             "constraints": {
               "enum": [
                 "España",
-                "Cantabria",
+                "ES464",
+                "ES465",
+                "ES466",
+                "ES467",
+                "ES468",
+                "ES469",
+                "ES470",
+                "ES471",
+                "ES472",
+                "ES473",
+                "ES474",
+                "ES475",
+                "ES476",
+                "ES477",
+                "ES478",
+                "ES479",
+                "ES480",
+                "ES481",
+                "ES482",
+                "ES483",
                 ""
               ]
             }

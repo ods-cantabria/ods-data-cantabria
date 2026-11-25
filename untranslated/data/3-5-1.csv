@@ -1,9 +1,4 @@
 Year,Serie,RefArea,Value
-2010,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,España,
-2011,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,España,
-2012,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,España,
-2013,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,España,
-2014,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,España,
 2015,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,España,101.99
 2016,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,España,98.3
 2017,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,España,100.62
@@ -12,7 +7,8 @@ Year,Serie,RefArea,Value
 2020,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,España,81.41
 2021,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,España,93.66
 2022,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,España,95.96
-2023,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,España,
+2023,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,España,100.65
+2024,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,España,99.02
 2010,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,Cantabria,76.49
 2011,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,Cantabria,63.56
 2012,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,Cantabria,62.29
@@ -26,12 +22,8 @@ Year,Serie,RefArea,Value
 2020,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,Cantabria,68.08
 2021,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,Cantabria,82.62
 2022,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,Cantabria,93.12
-2023,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,Cantabria,104.0
-2010,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,España,
-2011,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,España,
-2012,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,España,
-2013,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,España,
-2014,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,España,
+2023,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,Cantabria,104.13
+2024,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes,Cantabria,109.91
 2015,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,España,173.77
 2016,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,España,167.19
 2017,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,España,171.1
@@ -40,7 +32,8 @@ Year,Serie,RefArea,Value
 2020,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,España,136.08
 2021,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,España,156.7
 2022,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,España,159.64
-2023,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,España,
+2023,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,España,167.18
+2024,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,España,164.01
 2010,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,Cantabria,136.07
 2011,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,Cantabria,111.84
 2012,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,Cantabria,108.23
@@ -54,12 +47,8 @@ Year,Serie,RefArea,Value
 2020,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,Cantabria,116.22
 2021,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,Cantabria,139.57
 2022,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,Cantabria,155.79
-2023,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,Cantabria,159.32
-2010,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,España,
-2011,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,España,
-2012,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,España,
-2013,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,España,
-2014,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,España,
+2023,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,Cantabria,159.48
+2024,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres,Cantabria,159.32
 2015,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,España,32.23
 2016,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,España,31.55
 2017,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,España,32.47
@@ -68,7 +57,8 @@ Year,Serie,RefArea,Value
 2020,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,España,28.68
 2021,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,España,32.8
 2022,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,España,34.73
-2023,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,España,
+2023,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,España,36.7
+2024,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,España,36.48
 2010,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,Cantabria,19.28
 2011,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,Cantabria,17.23
 2012,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,Cantabria,18.23
@@ -82,12 +72,8 @@ Year,Serie,RefArea,Value
 2020,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,Cantabria,22.66
 2021,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,Cantabria,28.92
 2022,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,Cantabria,34.11
-2023,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,Cantabria,52.0
-2010,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,España,
-2011,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,España,
-2012,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,España,
-2013,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,España,
-2014,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,España,
+2023,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,Cantabria,52.08
+2024,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres,Cantabria,42.64
 2015,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,España,59.22
 2016,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,España,57.41
 2017,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,España,55.37
@@ -96,7 +82,8 @@ Year,Serie,RefArea,Value
 2020,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,España,42.28
 2021,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,España,53.1
 2022,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,España,56.6
-2023,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,España,
+2023,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,España,58.24
+2024,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,España,56.43
 2010,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,Cantabria,14.59
 2011,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,Cantabria,15.21
 2012,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,Cantabria,22.17
@@ -110,12 +97,8 @@ Year,Serie,RefArea,Value
 2020,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,Cantabria,29.5
 2021,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,Cantabria,32.16
 2022,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,Cantabria,45.54
-2023,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,Cantabria,40.38
-2010,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,España,
-2011,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,España,
-2012,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,España,
-2013,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,España,
-2014,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,España,
+2023,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,Cantabria,40.43
+2024,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes,Cantabria,40.07
 2015,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,España,93.41
 2016,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,España,89.85
 2017,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,España,87.01
@@ -124,7 +107,8 @@ Year,Serie,RefArea,Value
 2020,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,España,63.96
 2021,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,España,80.06
 2022,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,España,85.21
-2023,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,España,
+2023,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,España,86.98
+2024,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,España,83.98
 2010,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,Cantabria,22.85
 2011,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,Cantabria,24.51
 2012,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,Cantabria,36.31
@@ -138,12 +122,8 @@ Year,Serie,RefArea,Value
 2020,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,Cantabria,44.16
 2021,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,Cantabria,47.23
 2022,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,Cantabria,65.06
-2023,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,Cantabria,63.73
-2010,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,España,
-2011,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,España,
-2012,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,España,
-2013,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,España,
-2014,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,España,
+2023,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,Cantabria,63.79
+2024,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres,Cantabria,54.45
 2015,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,España,25.98
 2016,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,España,25.98
 2017,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,España,24.68
@@ -152,7 +132,8 @@ Year,Serie,RefArea,Value
 2020,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,España,21.35
 2021,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,España,27.08
 2022,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,España,29.08
-2023,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,España,
+2023,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,España,30.62
+2024,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,España,29.93
 2010,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,Cantabria,6.65
 2011,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,Cantabria,6.29
 2012,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,Cantabria,8.62
@@ -166,4 +147,5 @@ Year,Serie,RefArea,Value
 2020,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,Cantabria,15.66
 2021,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,Cantabria,17.95
 2022,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,Cantabria,27.16
-2023,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,Cantabria,18.43
+2023,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,Cantabria,18.46
+2024,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres,Cantabria,26.57

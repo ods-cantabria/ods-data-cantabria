@@ -32,6 +32,11 @@
               "enum": [
                 "España",
                 "Cantabria",
+                "ES14",
+                "ES15",
+                "ES16",
+                "ES17",
+                "ES18",
                 ""
               ]
             }

@@ -13,6 +13,8 @@ Year,Serie,Región,Value
 2021,Proporción de centros educativos no universitarios con acceso a electricidad,España,100.0
 2022,Proporción de centros educativos no universitarios con acceso a electricidad,España,100.0
 2023,Proporción de centros educativos no universitarios con acceso a electricidad,España,100.0
+2024,Proporción de centros educativos no universitarios con acceso a electricidad,España,100.0
+2025,Proporción de centros educativos no universitarios con acceso a electricidad,España,100.0
 2010,Proporción de centros educativos no universitarios con acceso a electricidad,Cantabria,100.0
 2011,Proporción de centros educativos no universitarios con acceso a electricidad,Cantabria,100.0
 2012,Proporción de centros educativos no universitarios con acceso a electricidad,Cantabria,100.0
@@ -27,6 +29,8 @@ Year,Serie,Región,Value
 2021,Proporción de centros educativos no universitarios con acceso a electricidad,Cantabria,100.0
 2022,Proporción de centros educativos no universitarios con acceso a electricidad,Cantabria,100.0
 2023,Proporción de centros educativos no universitarios con acceso a electricidad,Cantabria,100.0
+2024,Proporción de centros educativos no universitarios con acceso a electricidad,Cantabria,100.0
+2025,Proporción de centros educativos no universitarios con acceso a electricidad,Cantabria,100.0
 2011,Proporción de aulas habituales de clase con conexión a Internet en centros educativos no universitarios,España,80.6
 2012,Proporción de aulas habituales de clase con conexión a Internet en centros educativos no universitarios,España,86.7
 2013,Proporción de aulas habituales de clase con conexión a Internet en centros educativos no universitarios,España,89.8
@@ -43,6 +47,17 @@ Year,Serie,Región,Value
 2017,Proporción de aulas habituales de clase con conexión a Internet en centros educativos no universitarios,Cantabria,97.1
 2019,Proporción de aulas habituales de clase con conexión a Internet en centros educativos no universitarios,Cantabria,97.9
 2021,Proporción de aulas habituales de clase con conexión a Internet en centros educativos no universitarios,Cantabria,99.1
+2010,Proporción de centros educativos no universitarios con conexión a Internet,Cantabria,98.4
+2011,Proporción de centros educativos no universitarios con conexión a Internet,Cantabria,100.0
+2012,Proporción de centros educativos no universitarios con conexión a Internet,Cantabria,100.0
+2013,Proporción de centros educativos no universitarios con conexión a Internet,Cantabria,100.0
+2014,Proporción de centros educativos no universitarios con conexión a Internet,Cantabria,100.0
+2015,Proporción de centros educativos no universitarios con conexión a Internet,Cantabria,100.0
+2016,Proporción de centros educativos no universitarios con conexión a Internet,Cantabria,100.0
+2017,Proporción de centros educativos no universitarios con conexión a Internet,Cantabria,100.0
+2019,Proporción de centros educativos no universitarios con conexión a Internet,Cantabria,100.0
+2021,Proporción de centros educativos no universitarios con conexión a Internet,Cantabria,100.0
+2023,Proporción de centros educativos no universitarios con conexión a Internet,Cantabria,100.0
 2010,Alumnado medio por ordenador destinado a tareas de enseñanza y aprendizaje en centros educativos no universitarios,España,4.3
 2011,Alumnado medio por ordenador destinado a tareas de enseñanza y aprendizaje en centros educativos no universitarios,España,3.5
 2012,Alumnado medio por ordenador destinado a tareas de enseñanza y aprendizaje en centros educativos no universitarios,España,3.2
@@ -77,7 +92,8 @@ Year,Serie,Región,Value
 2021,Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable,España,100.0
 2022,Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable,España,100.0
 2023,Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable,España,100.0
-2024,Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable,España,0.0
+2024,Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable,España,100.0
+2025,Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable,España,100.0
 2010,Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable,Cantabria,100.0
 2011,Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable,Cantabria,100.0
 2012,Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable,Cantabria,100.0
@@ -93,6 +109,7 @@ Year,Serie,Región,Value
 2022,Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable,Cantabria,100.0
 2023,Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable,Cantabria,100.0
 2024,Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable,Cantabria,100.0
+2025,Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable,Cantabria,100.0
 2010,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,España,100.0
 2011,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,España,100.0
 2012,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,España,100.0
@@ -107,7 +124,8 @@ Year,Serie,Región,Value
 2021,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,España,100.0
 2022,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,España,100.0
 2023,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,España,100.0
-2024,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,España,0.0
+2024,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,España,100.0
+2025,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,España,100.0
 2010,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,Cantabria,100.0
 2011,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,Cantabria,100.0
 2012,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,Cantabria,100.0
@@ -123,6 +141,7 @@ Year,Serie,Región,Value
 2022,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,Cantabria,100.0
 2023,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,Cantabria,100.0
 2024,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,Cantabria,100.0
+2025,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo,Cantabria,100.0
 2010,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,España,100.0
 2011,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,España,100.0
 2012,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,España,100.0
@@ -137,7 +156,8 @@ Year,Serie,Región,Value
 2021,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,España,100.0
 2022,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,España,100.0
 2023,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,España,100.0
-2024,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,España,0.0
+2024,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,España,100.0
+2025,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,España,100.0
 2010,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,Cantabria,100.0
 2011,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,Cantabria,100.0
 2012,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,Cantabria,100.0
@@ -153,3 +173,4 @@ Year,Serie,Región,Value
 2022,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,Cantabria,100.0
 2023,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,Cantabria,100.0
 2024,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,Cantabria,100.0
+2025,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos,Cantabria,100.0

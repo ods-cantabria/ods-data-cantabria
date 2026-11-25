@@ -22,6 +22,7 @@
               "enum": [
                 "Proporción de hogares cubiertos con redes móviles 3,5G",
                 "Proporción de hogares cubiertos con redes móviles 4G",
+                "Proporción de hogares cubiertos con redes móviles 5G",
                 ""
               ]
             },
@@ -33,7 +34,32 @@
             "constraints": {
               "enum": [
                 "España",
-                "Cantabria",
+                "ES227",
+                "ES228",
+                "ES229",
+                "ES230",
+                "ES231",
+                "ES232",
+                "ES233",
+                "ES234",
+                "ES235",
+                "ES236",
+                "ES237",
+                "ES238",
+                "ES239",
+                "ES240",
+                "ES241",
+                "ES242",
+                "ES243",
+                "ES244",
+                "ES245",
+                "ES246",
+                "ES247",
+                "ES248",
+                "ES249",
+                "ES250",
+                "ES251",
+                "ES252",
                 ""
               ]
             },

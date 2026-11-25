@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Residuos urbanos recogidos per cápita",
+                "Residuos municipales recogidos per cápita",
                 "Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados",
                 "Proporción de residuos municipales vertidos en relación al total de residuos municipales generados y tratados",
                 "Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados",

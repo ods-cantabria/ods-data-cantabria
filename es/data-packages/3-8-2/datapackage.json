@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "Proporción de personas que viven en hogares con grandes gastos sanitarios, superiores al 10% del gasto total del hogar",
+                "Proporción de personas que viven en hogares con grandes gastos sanitarios, superiores al 25% del gasto total del hogar",
                 ""
               ]
             },
